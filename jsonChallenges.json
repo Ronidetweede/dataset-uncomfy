@@ -4,7 +4,11 @@
     "img_location": "assets/images/dog_park.jpg",
     "title": "Honden-Babbel",
     "description": "Vraag een voorbijganger of je hun hond mag aaien.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 156,
     "difficulty": "Gemiddeld",
     "category": "Sociaal",
@@ -15,7 +19,11 @@
     "img_location": "assets/images/public_dance.jpg",
     "title": "Stille Dans",
     "description": "Dans 1 minuut zonder muziek in het midden van het grasveld.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 21,
     "difficulty": "Moeilijk",
     "category": "Publiek",
@@ -26,7 +34,11 @@
     "img_location": "assets/images/lying_down.jpg",
     "title": "De 30-seconden Lig",
     "description": "Ga 30 seconden op het gras of het pad liggen terwijl er mensen in de buurt zijn en sta daarna rustig op.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 43,
     "difficulty": "Moeilijk",
     "category": "Publiek",
@@ -37,7 +49,11 @@
     "img_location": "assets/images/winter_walk.jpg",
     "title": "Koude-Wandeling",
     "description": "Wandel 5 minuten door het park zonder jas wanneer het kouder is dan 10 graden.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 189,
     "difficulty": "Gemiddeld",
     "category": "Fysiek",
@@ -48,7 +64,11 @@
     "img_location": "assets/images/compliments.jpg",
     "title": "Complimenten-Run",
     "description": "Geef vandaag 5 oprechte complimenten aan volstrekte vreemden die aan het wandelen zijn.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 245,
     "difficulty": "Gemiddeld",
     "category": "Sociaal",
@@ -59,7 +79,11 @@
     "img_location": "assets/images/new_route.jpg",
     "title": "Verdwaal-Sessie",
     "description": "Neem bewust de kleinste, minst bewandelde paden om een nieuw deel van het park te ontdekken.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 420,
     "difficulty": "Makkelijk",
     "category": "Ervaring",
@@ -70,7 +94,11 @@
     "img_location": "assets/images/meditation.jpg",
     "title": "No-Brainrot",
     "description": "Zit 15 minuten op een bankje in absolute stilte, kijk naar de natuur en raak je telefoon niet aan.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 167,
     "difficulty": "Gemiddeld",
     "category": "Mentaal",
@@ -81,7 +109,11 @@
     "img_location": "assets/images/front_row.jpg",
     "title": "Gedeeld Bankje",
     "description": "Ga op een bankje zitten waar al een vreemde zit en knoop een kort gesprek aan.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 204,
     "difficulty": "Moeilijk",
     "category": "Sociaal",
@@ -92,7 +124,11 @@
     "img_location": "assets/images/cold_shower.jpg",
     "title": "Blote Voeten",
     "description": "Trek je schoenen en sokken uit en wandel 2 minuten op blote voeten door het gras.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 512,
     "difficulty": "Gemiddeld",
     "category": "Fysiek",
@@ -103,7 +139,11 @@
     "img_location": "assets/images/floor_sleep.jpg",
     "title": "Grond-Picknick",
     "description": "Eet je lunch of snack zittend op de blote grond, zonder picknickkleed te gebruiken.",
-    "location": "Park",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
     "joined_count": 67,
     "difficulty": "Makkelijk",
     "category": "Ervaring",
@@ -114,7 +154,11 @@
     "img_location": "assets/images/restaurant_interior.jpg",
     "title": "Gratis Dessert",
     "description": "Vraag de ober om een gratis dessert aan het eind van je maaltijd, zonder dat je jarig bent.",
-    "location": "Restaurant",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
     "joined_count": 28,
     "difficulty": "Moeilijk",
     "category": "Sociaal",
@@ -125,7 +169,11 @@
     "img_location": "assets/images/solo_dinner.jpg",
     "title": "Solo-Diner",
     "description": "Ga volledig alleen uit eten en geniet van een driegangendiner zonder afleiding.",
-    "location": "Restaurant",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
     "joined_count": 132,
     "difficulty": "Gemiddeld",
     "category": "Publiek",
@@ -136,7 +184,11 @@
     "img_location": "assets/images/supermarket.jpg",
     "title": "Chef's Verrassing",
     "description": "Vraag of de chef-kok je maaltijd mag bepalen; bestel helemaal niets van de kaart.",
-    "location": "Restaurant",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
     "joined_count": 12,
     "difficulty": "Moeilijk",
     "category": "Ervaring",
@@ -147,7 +199,11 @@
     "img_location": "assets/images/train_stop.jpg",
     "title": "De Blinde Bestelling",
     "description": "Sluit je ogen, wijs blind een gerecht aan op het menu en bestel dit zonder vragen te stellen.",
-    "location": "Restaurant",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
     "joined_count": 58,
     "difficulty": "Gemiddeld",
     "category": "Ervaring",
@@ -158,7 +214,11 @@
     "img_location": "assets/images/ugly_clothes.jpg",
     "title": "Underdressed Diner",
     "description": "Ga naar een redelijk chique restaurant in kleding die eigenlijk veel te casual of 'lelijk' is.",
-    "location": "Restaurant",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
     "joined_count": 76,
     "difficulty": "Moeilijk",
     "category": "Publiek",
@@ -169,7 +229,11 @@
     "img_location": "assets/images/coffee_shop.jpg",
     "title": "De Koffie-Korting",
     "description": "Vraag om 10% korting bij je bestelling zonder specifieke reden (Noah Kagan methode).",
-    "location": "Cafe",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
     "joined_count": 84,
     "difficulty": "Moeilijk",
     "category": "Sociaal",
@@ -180,7 +244,11 @@
     "img_location": "assets/images/street_walk.jpg",
     "title": "Tijd-Check",
     "description": "Knoop een gesprekje aan met een andere klant in het café door te vragen hoe laat het is.",
-    "location": "Cafe",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
     "joined_count": 312,
     "difficulty": "Makkelijk",
     "category": "Sociaal",
@@ -191,7 +259,11 @@
     "img_location": "assets/images/gym_training.jpg",
     "title": "Barista's Kennis",
     "description": "Vraag de barista om je uitgebreid te vertellen over hun favoriete koffieboon en waarom.",
-    "location": "Cafe",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
     "joined_count": 94,
     "difficulty": "Gemiddeld",
     "category": "Sociaal",
@@ -202,7 +274,11 @@
     "img_location": "assets/images/digital_detox.jpg",
     "title": "Analoge Koffie",
     "description": "Drink je koffie op in het café zonder ook maar één keer naar een scherm (telefoon/laptop) te kijken.",
-    "location": "Cafe",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
     "joined_count": 35,
     "difficulty": "Gemiddeld",
     "category": "Mentaal",
@@ -213,7 +289,11 @@
     "img_location": "assets/images/resume.jpg",
     "title": "Failure Resume",
     "description": "Ga met een notitieboekje in het café zitten en schrijf een cv van al je grootste mislukkingen.",
-    "location": "Cafe",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
     "joined_count": 49,
     "difficulty": "Gemiddeld",
     "category": "Creatief",
