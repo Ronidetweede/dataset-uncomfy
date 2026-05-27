@@ -12,7 +12,22 @@
     "joined_count": 156,
     "difficulty": "Gemiddeld",
     "category": "Sociaal",
-    "comfyPoints": 75
+    "comfyPoints": 75,
+    "expectations": [
+      "De meeste hondeneigenaren zeggen graag ja.",
+      "Je start vanzelf een gesprekje.",
+      "Honden maken het contact makkelijker."
+    ],
+    "tips": [
+      "Vraag altijd eerst toestemming.",
+      "Laat de hond naar jou toekomen.",
+      "Complimenteer de hond oprecht."
+    ],
+    "criteria": [
+      "Toestemming gevraagd.",
+      "Hond aangeraakt.",
+      "Minimaal een kort gesprek gehad."
+    ]
   },
   {
     "id": 2,
@@ -27,7 +42,22 @@
     "joined_count": 21,
     "difficulty": "Moeilijk",
     "category": "Publiek",
-    "comfyPoints": 300
+    "comfyPoints": 300,
+    "expectations": [
+      "Je voelt je extreem zichtbaar.",
+      "Mensen kijken en reageren divers.",
+      "Daarna voel je een enorme vrijheid."
+    ],
+    "tips": [
+      "Kies een eigen intern liedje om op te dansen.",
+      "Sluit je ogen als het helpt.",
+      "Houd vol ook als mensen kijken."
+    ],
+    "criteria": [
+      "1 minuut gedanst.",
+      "Midden op het grasveld.",
+      "Geen muziek gebruikt."
+    ]
   },
   {
     "id": 3,
@@ -42,7 +72,22 @@
     "joined_count": 43,
     "difficulty": "Moeilijk",
     "category": "Publiek",
-    "comfyPoints": 275
+    "comfyPoints": 275,
+    "expectations": [
+      "Mensen kijken en vragen zich af wat er aan de hand is.",
+      "Je voelt je kwetsbaar en opvallend.",
+      "Na 30 seconden voel je een gevoel van prestatie."
+    ],
+    "tips": [
+      "Adem rustig en bewust.",
+      "Kijk naar de lucht, niet naar de mensen.",
+      "Sta kalm op zonder je te verontschuldigen."
+    ],
+    "criteria": [
+      "30 seconden gelegen.",
+      "In de buurt van andere mensen.",
+      "Rustig opgestaan."
+    ]
   },
   {
     "id": 4,
@@ -57,7 +102,22 @@
     "joined_count": 189,
     "difficulty": "Gemiddeld",
     "category": "Fysiek",
-    "comfyPoints": 110
+    "comfyPoints": 110,
+    "expectations": [
+      "De kou valt mee na de eerste minuut.",
+      "Je lichaam went snel aan de temperatuur.",
+      "Je voelt je daarna energiek en wakker."
+    ],
+    "tips": [
+      "Beweeg actief om warm te blijven.",
+      "Adem diep in door je neus.",
+      "Laat je jas achter op een veilige plek."
+    ],
+    "criteria": [
+      "5 minuten gewandeld zonder jas.",
+      "Bij temperatuur onder 10 graden.",
+      "Niet gestopt door de kou."
+    ]
   },
   {
     "id": 5,
@@ -72,7 +132,22 @@
     "joined_count": 245,
     "difficulty": "Gemiddeld",
     "category": "Sociaal",
-    "comfyPoints": 100
+    "comfyPoints": 100,
+    "expectations": [
+      "De meeste mensen zijn aangenaam verrast.",
+      "Oprechte complimenten zijn moeilijker te geven dan je denkt.",
+      "Je eigen stemming stijgt bij elk compliment."
+    ],
+    "tips": [
+      "Wees specifiek: benoem iets concreets.",
+      "Maak oogcontact bij het geven.",
+      "Loop daarna rustig door zonder te wachten op een reactie."
+    ],
+    "criteria": [
+      "5 complimenten gegeven.",
+      "Aan 5 verschillende vreemden.",
+      "Elk compliment oprecht en specifiek."
+    ]
   },
   {
     "id": 6,
@@ -87,7 +162,22 @@
     "joined_count": 420,
     "difficulty": "Makkelijk",
     "category": "Ervaring",
-    "comfyPoints": 30
+    "comfyPoints": 30,
+    "expectations": [
+      "Je ontdekt plekken die je nog nooit zag.",
+      "Het park voelt groter dan je dacht.",
+      "Je hoeft je geen zorgen te maken: je vindt de weg terug."
+    ],
+    "tips": [
+      "Laat je telefoon in je zak.",
+      "Kies altijd het minst voor de hand liggende pad.",
+      "Schrijf op wat je ontdekt."
+    ],
+    "criteria": [
+      "Bewust onbekende paden gekozen.",
+      "Nieuw deel van het park gevonden.",
+      "Zonder navigatie gedaan."
+    ]
   },
   {
     "id": 7,
@@ -102,7 +192,22 @@
     "joined_count": 167,
     "difficulty": "Gemiddeld",
     "category": "Mentaal",
-    "comfyPoints": 115
+    "comfyPoints": 115,
+    "expectations": [
+      "De eerste 5 minuten zijn het moeilijkst.",
+      "Je hoofd wordt onrustig voor het rustiger wordt.",
+      "Na 15 minuten voel je je verrassend helder."
+    ],
+    "tips": [
+      "Leg je telefoon in je tas of zak.",
+      "Richt je blik op iets in de natuur.",
+      "Accepteer gedachten die opkomen zonder ze te volgen."
+    ],
+    "criteria": [
+      "15 minuten gezeten.",
+      "Telefoon niet aangeraakt.",
+      "In stilte en zonder schermen."
+    ]
   },
   {
     "id": 8,
@@ -117,7 +222,22 @@
     "joined_count": 204,
     "difficulty": "Moeilijk",
     "category": "Sociaal",
-    "comfyPoints": 150
+    "comfyPoints": 150,
+    "expectations": [
+      "De ander kan terughoudend zijn.",
+      "Maar vaker dan je denkt is hij of zij blij met contact.",
+      "Het gesprek begint vaak bij de omgeving."
+    ],
+    "tips": [
+      "Begin met een opmerking over de omgeving of het weer.",
+      "Stel jezelf niet meteen voor, laat het gesprek groeien.",
+      "Respecteer als ze niet willen praten."
+    ],
+    "criteria": [
+      "Op een bezet bankje gezeten.",
+      "Contact gemaakt.",
+      "Minimaal een kort gesprek gehad."
+    ]
   },
   {
     "id": 9,
@@ -132,7 +252,22 @@
     "joined_count": 512,
     "difficulty": "Gemiddeld",
     "category": "Fysiek",
-    "comfyPoints": 90
+    "comfyPoints": 90,
+    "expectations": [
+      "Het gras voelt koeler dan verwacht.",
+      "Je voeten worden bewust van elke stap.",
+      "Het is verrassend aangenaam na de eerste seconden."
+    ],
+    "tips": [
+      "Kies een schoon grasveld.",
+      "Loop langzaam en bewust.",
+      "Voel de grond bij elke stap actief."
+    ],
+    "criteria": [
+      "Schoenen en sokken uitgetrokken.",
+      "2 minuten op blote voeten gelopen.",
+      "Op het gras gedaan."
+    ]
   },
   {
     "id": 10,
@@ -147,7 +282,22 @@
     "joined_count": 67,
     "difficulty": "Makkelijk",
     "category": "Ervaring",
-    "comfyPoints": 50
+    "comfyPoints": 50,
+    "expectations": [
+      "De grond is kouder en ongemakkelijker dan verwacht.",
+      "Je eet bewuster dan normaal.",
+      "Het is een kleine maar opvallende keuze."
+    ],
+    "tips": [
+      "Kies een droge plek.",
+      "Zit comfortabel in kleermakerszit of met gestrekte benen.",
+      "Geniet van het gevoel van gronden zijn."
+    ],
+    "criteria": [
+      "Gegeten op de blote grond.",
+      "Geen kleed of mat gebruikt.",
+      "Volledig opgemaakt."
+    ]
   },
   {
     "id": 11,
@@ -162,7 +312,22 @@
     "joined_count": 28,
     "difficulty": "Moeilijk",
     "category": "Sociaal",
-    "comfyPoints": 225
+    "comfyPoints": 225,
+    "expectations": [
+      "De ober zegt waarschijnlijk nee.",
+      "Maar de vraag stellen is de oefening.",
+      "Je overwint de angst voor afwijzing."
+    ],
+    "tips": [
+      "Vraag vriendelijk en met een glimlach.",
+      "Geef geen reden op.",
+      "Accepteer een nee met gratie."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Vriendelijk gereageerd op het antwoord.",
+      "Niet van tevoren geoefend."
+    ]
   },
   {
     "id": 12,
@@ -177,7 +342,22 @@
     "joined_count": 132,
     "difficulty": "Gemiddeld",
     "category": "Publiek",
-    "comfyPoints": 120
+    "comfyPoints": 120,
+    "expectations": [
+      "De eerste minuten voelen ongemakkelijk.",
+      "Daarna merk je hoe aangenaam het is.",
+      "Je eet bewuster en proefd meer."
+    ],
+    "tips": [
+      "Neem geen boek of telefoon ter afleiding mee.",
+      "Observeer de omgeving actief.",
+      "Geniet van de stilte als een luxe."
+    ],
+    "criteria": [
+      "Volledig alleen gegeten.",
+      "Drie gangen genuttigd.",
+      "Geen schermen als afleiding."
+    ]
   },
   {
     "id": 13,
@@ -192,7 +372,22 @@
     "joined_count": 12,
     "difficulty": "Moeilijk",
     "category": "Ervaring",
-    "comfyPoints": 250
+    "comfyPoints": 250,
+    "expectations": [
+      "Je geeft controle volledig los.",
+      "De chef kan iets maken wat je normaal niet zou kiezen.",
+      "Het resultaat kan verrassend goed zijn."
+    ],
+    "tips": [
+      "Geef eventuele allergieën aan.",
+      "Wees open voor alles wat komt.",
+      "Bedank de chef persoonlijk achteraf."
+    ],
+    "criteria": [
+      "Niets van de kaart besteld.",
+      "Chef de keuze gegeven.",
+      "Alles gegeten wat gebracht werd."
+    ]
   },
   {
     "id": 14,
@@ -207,7 +402,22 @@
     "joined_count": 58,
     "difficulty": "Gemiddeld",
     "category": "Ervaring",
-    "comfyPoints": 85
+    "comfyPoints": 85,
+    "expectations": [
+      "Je kunt iets bestellen wat je niet lekker vindt.",
+      "Maar ook iets ontdekken wat je nooit zou kiezen.",
+      "Het loslaten van controle is de kern van de oefening."
+    ],
+    "tips": [
+      "Sluit je ogen echt.",
+      "Wijs met je vinger willekeurig aan.",
+      "Stel geen vragen en accepteer de keuze."
+    ],
+    "criteria": [
+      "Ogen gesloten bij het aanwijzen.",
+      "Gerecht besteld zonder vragen.",
+      "Volledig gegeten."
+    ]
   },
   {
     "id": 15,
@@ -222,7 +432,22 @@
     "joined_count": 76,
     "difficulty": "Moeilijk",
     "category": "Publiek",
-    "comfyPoints": 180
+    "comfyPoints": 180,
+    "expectations": [
+      "Je voelt je opvallend anders dan de andere gasten.",
+      "Personeel reageert professioneel maar opvallend.",
+      "Je ontdekt hoe kleding je gevoel beïnvloedt."
+    ],
+    "tips": [
+      "Kies bewust iets dat echt buiten de norm valt.",
+      "Hou je hoofd omhoog en gedraag je ontspannen.",
+      "Geniet van het gevoel van anders zijn."
+    ],
+    "criteria": [
+      "Te casual gekleed naar een chique restaurant.",
+      "Volledig diner gedaan.",
+      "Niet veranderd van kleding."
+    ]
   },
   {
     "id": 16,
@@ -237,7 +462,22 @@
     "joined_count": 84,
     "difficulty": "Moeilijk",
     "category": "Sociaal",
-    "comfyPoints": 200
+    "comfyPoints": 200,
+    "expectations": [
+      "De barista zegt waarschijnlijk nee.",
+      "Maar het stellen van de vraag is de echte oefening.",
+      "Je overwint de angst voor een ongemakkelijke situatie."
+    ],
+    "tips": [
+      "Vraag het direct en zonder omhaal.",
+      "Geef geen reden of excuus.",
+      "Accepteer het antwoord vriendelijk, wat het ook is."
+    ],
+    "criteria": [
+      "Korting gevraagd.",
+      "Geen reden opgegeven.",
+      "Vriendelijk gereageerd op het antwoord."
+    ]
   },
   {
     "id": 17,
@@ -252,7 +492,22 @@
     "joined_count": 312,
     "difficulty": "Makkelijk",
     "category": "Sociaal",
-    "comfyPoints": 25
+    "comfyPoints": 25,
+    "expectations": [
+      "De meeste mensen antwoorden vriendelijk.",
+      "Het is een lage-drempel manier om contact te maken.",
+      "Het gesprek kan makkelijk verder gaan."
+    ],
+    "tips": [
+      "Vraag het oprecht, ook als je je telefoon bij hebt.",
+      "Gebruik het antwoord als aanleiding voor een vervolgvraag.",
+      "Glimlach bij het vragen."
+    ],
+    "criteria": [
+      "Iemand om de tijd gevraagd.",
+      "Gesprekje aangeknoopt.",
+      "Langer dan één zin gesproken."
+    ]
   },
   {
     "id": 18,
@@ -267,7 +522,22 @@
     "joined_count": 94,
     "difficulty": "Gemiddeld",
     "category": "Sociaal",
-    "comfyPoints": 80
+    "comfyPoints": 80,
+    "expectations": [
+      "Barista's zijn trots op hun kennis.",
+      "Het gesprek kan langer duren dan verwacht.",
+      "Je leert iets nieuws over koffie."
+    ],
+    "tips": [
+      "Vraag op een rustig moment.",
+      "Luister actief en stel vervolgvragen.",
+      "Bedank hen voor de uitleg."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Volledig verhaal gehoord.",
+      "Doorgevraagd op het antwoord."
+    ]
   },
   {
     "id": 19,
@@ -282,7 +552,22 @@
     "joined_count": 35,
     "difficulty": "Gemiddeld",
     "category": "Mentaal",
-    "comfyPoints": 140
+    "comfyPoints": 140,
+    "expectations": [
+      "Je merkt hoe sterk de drang naar je telefoon is.",
+      "Na een paar minuten word je rustiger.",
+      "Je neemt de omgeving veel meer waar."
+    ],
+    "tips": [
+      "Leg je telefoon ondersteboven of in je tas.",
+      "Observeer de andere gasten.",
+      "Geniet actief van de smaak van je koffie."
+    ],
+    "criteria": [
+      "Volledige kop koffie opgedronken.",
+      "Geen scherm aangeraakt.",
+      "Aanwezig gebleven in het moment."
+    ]
   },
   {
     "id": 20,
@@ -297,7 +582,22 @@
     "joined_count": 49,
     "difficulty": "Gemiddeld",
     "category": "Creatief",
-    "comfyPoints": 95
+    "comfyPoints": 95,
+    "expectations": [
+      "Het is moeilijker om mislukkingen op te schrijven dan successen.",
+      "Je kijkt anders naar je fouten.",
+      "Het resultaat is onverwacht bevrijdend."
+    ],
+    "tips": [
+      "Schrijf in CV-formaat: functietitel, periode, beschrijving.",
+      "Behandel elke mislukking als een leerervaring.",
+      "Sluit af met wat je eruit hebt geleerd."
+    ],
+    "criteria": [
+      "Minimaal 5 mislukkingen opgeschreven.",
+      "In CV-formaat.",
+      "Les per mislukking opgenomen."
+    ]
   },
   {
     "id": 21,
