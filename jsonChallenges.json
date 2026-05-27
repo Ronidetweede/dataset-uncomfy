@@ -298,5 +298,6905 @@
     "difficulty": "Gemiddeld",
     "category": "Creatief",
     "comfyPoints": 95
+  },
+  {
+    "id": 21,
+    "img_location": "assets/images/dog_chat2.jpg",
+    "title": "Honden-Babbel Extra",
+    "description": "Vraag twee verschillende voorbijgangers naar hun hond en vergelijk de verhalen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 30,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 89,
+    "expectations": [
+      "Je ontdekt hoeveel trots hondeneigenaren hebben.",
+      "Elk gesprek is anders.",
+      "Je voelt je na afloop open en verbonden."
+    ],
+    "tips": [
+      "Begin met een compliment over de hond.",
+      "Stel een vergelijkende vraag na het tweede gesprek.",
+      "Luister echt, zonder te oordelen."
+    ],
+    "criteria": [
+      "Twee gesprekken gevoerd.",
+      "Beide over de hond.",
+      "Verhalen vergeleken."
+    ]
+  },
+  {
+    "id": 22,
+    "img_location": "assets/images/greeting_walk.jpg",
+    "title": "Parkgroet-Marathon",
+    "description": "Groet elke persoon die je tegenkomt tijdens een wandeling van 10 minuten.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 255,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 110,
+    "expectations": [
+      "De meeste mensen groeten terug.",
+      "Sommigen zijn verrast.",
+      "Je glimlach wordt steeds makkelijker."
+    ],
+    "tips": [
+      "Maak oogcontact vóór je groet.",
+      "Varieer: knik, zwaai of zeg 'hoi'.",
+      "Tel het aantal reacties."
+    ],
+    "criteria": [
+      "Iedereen gegroet.",
+      "10 minuten gewandeld.",
+      "Minimaal 5 reacties ontvangen."
+    ]
+  },
+  {
+    "id": 23,
+    "img_location": "assets/images/name_exchange.jpg",
+    "title": "Naam-Uitwisseling",
+    "description": "Vraag de naam van drie vreemden en stel jezelf ook voor.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 147,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 103,
+    "expectations": [
+      "Namen onthouden is moeilijker dan je denkt.",
+      "Mensen zijn blij als jij jouw naam ook geeft.",
+      "Het gesprek voelt gelijkwaardiger."
+    ],
+    "tips": [
+      "Herhaal de naam direct om hem te onthouden.",
+      "Geef een reden waarom je het vraagt.",
+      "Sluit elk gesprek vriendelijk af."
+    ],
+    "criteria": [
+      "3 namen geleerd.",
+      "Jezelf voorgesteld bij elk.",
+      "Namen onthouden na afloop."
+    ]
+  },
+  {
+    "id": 24,
+    "img_location": "assets/images/fruit_offer.jpg",
+    "title": "Picknick-Aanbieding",
+    "description": "Loop met extra fruit door het park en bied het aan aan voorbijgangers.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 563,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 88,
+    "expectations": [
+      "De meeste mensen zijn verrast maar blij.",
+      "Soms weigert iemand vanuit wantrouwen.",
+      "Het geeft een warm gevoel."
+    ],
+    "tips": [
+      "Neem voorverpakt fruit mee.",
+      "Leg uit wat je doet.",
+      "Blijf vriendelijk bij weigeringen."
+    ],
+    "criteria": [
+      "Fruit aangeboden.",
+      "Aan minimaal 3 mensen.",
+      "Vriendelijk gebleven bij nee."
+    ]
+  },
+  {
+    "id": 25,
+    "img_location": "assets/images/tourist_help.jpg",
+    "title": "Richtingshulp",
+    "description": "Stop een toerist en help hen actief de weg te vinden, ook als je het zelf moet opzoeken.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 437,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 15,
+    "expectations": [
+      "Toeristen zijn dankbaar voor echte hulp.",
+      "Je ontdekt misschien iets nieuws in de buurt.",
+      "Samenwerken geeft verbinding."
+    ],
+    "tips": [
+      "Vraag proactief of iemand hulp nodig heeft.",
+      "Neem de tijd om goed te helpen.",
+      "Begeleid hen een stuk als dat kan."
+    ],
+    "criteria": [
+      "Toerist geholpen.",
+      "Route uitgelegd.",
+      "Bedankt ontvangen."
+    ]
+  },
+  {
+    "id": 26,
+    "img_location": "assets/images/bench_interview.jpg",
+    "title": "Parkbank-Interview",
+    "description": "Vraag een vreemde op een bankje drie vragen over hun leven.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 35,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 179,
+    "expectations": [
+      "Mensen zijn onverwacht open.",
+      "Soms weigert iemand en dat is ok.",
+      "Drie vragen voelt als veel maar gaat snel."
+    ],
+    "tips": [
+      "Begin met een lichte vraag.",
+      "Luister zonder te onderbreken.",
+      "Bedank hen oprecht."
+    ],
+    "criteria": [
+      "3 vragen gesteld.",
+      "Echt geluisterd.",
+      "Gesprek vriendelijk afgesloten."
+    ]
+  },
+  {
+    "id": 27,
+    "img_location": "assets/images/spontaneous_help.jpg",
+    "title": "Spontaan Klusje",
+    "description": "Bied iemand aan om even te helpen, bijv. een tas dragen of een kinderwagen helpen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 228,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 15,
+    "expectations": [
+      "Mensen zijn soms wantrouwig.",
+      "Maar ouderen en ouders met kinderwagens zijn blij.",
+      "Het geeft een goed gevoel."
+    ],
+    "tips": [
+      "Bied aan op een rustig, open moment.",
+      "Wees niet opdringerig bij nee.",
+      "Doe het met een glimlach."
+    ],
+    "criteria": [
+      "Hulp aangeboden.",
+      "Daadwerkelijk geholpen bij ja.",
+      "Vriendelijk gereageerd bij nee."
+    ]
+  },
+  {
+    "id": 28,
+    "img_location": "assets/images/good_day.jpg",
+    "title": "Geluk-Doorgeven",
+    "description": "Zeg hardop tegen een vreemde 'ik wens je een fijne dag' en meen het echt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 522,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 24,
+    "expectations": [
+      "Mensen zijn verrast door echte warmte.",
+      "De meeste reageren positief.",
+      "Jij zelf voelt je ook beter."
+    ],
+    "tips": [
+      "Zeg het met oogcontact.",
+      "Meen het oprecht.",
+      "Loop daarna rustig door."
+    ],
+    "criteria": [
+      "Gezegd tegen minimaal 3 mensen.",
+      "Oprechte intentie gehad.",
+      "Positieve reactie ervaren."
+    ]
+  },
+  {
+    "id": 29,
+    "img_location": "assets/images/park_favorite.jpg",
+    "title": "Park-Kenner",
+    "description": "Vraag iemand wat hun favoriete plek in het park is en bezoek die plek daarna.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 579,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 78,
+    "expectations": [
+      "Elke persoon heeft een andere favoriet.",
+      "Je ontdekt plekken die je mist.",
+      "De aanbeveling voelt persoonlijk."
+    ],
+    "tips": [
+      "Vraag waarom het hun favoriet is.",
+      "Bezoek de plek ook echt.",
+      "Bedank hen bij terugkomst als mogelijk."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Favoriete plek bezocht.",
+      "Reden gehoord."
+    ]
+  },
+  {
+    "id": 30,
+    "img_location": "assets/images/smile_experiment.jpg",
+    "title": "Lach-Experiment",
+    "description": "Lach breed naar 10 vreemden en observeer hoeveel terugLachen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 563,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 22,
+    "expectations": [
+      "Lachen is aanstekelijk.",
+      "Meer dan je verwacht lachen terug.",
+      "Je humeur stijgt."
+    ],
+    "tips": [
+      "Maak oogcontact eerst.",
+      "Lach oprecht, niet geforceerd.",
+      "Tel de reacties."
+    ],
+    "criteria": [
+      "10 mensen aangelachen.",
+      "Reacties geteld.",
+      "Oprechte lach aangehouden."
+    ]
+  },
+  {
+    "id": 31,
+    "img_location": "assets/images/statue.jpg",
+    "title": "Minuut-Stilstand",
+    "description": "Sta precies 1 minuut doodstil op een drukke plek alsof je een straatkunstenaar bent.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 230,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 228,
+    "expectations": [
+      "Mensen staren.",
+      "Sommigen komen dichterbij.",
+      "De seconden voelen als uren."
+    ],
+    "tips": [
+      "Kies een opvallende houding.",
+      "Adem rustig en diep.",
+      "Kijk recht voor je uit."
+    ],
+    "criteria": [
+      "1 minuut stilgestaan.",
+      "Geen beweging gemaakt.",
+      "Op een drukke plek gedaan."
+    ]
+  },
+  {
+    "id": 32,
+    "img_location": "assets/images/slow_mo.jpg",
+    "title": "Langzame-Mo",
+    "description": "Loop 5 minuten in slow motion door het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 289,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 132,
+    "expectations": [
+      "Je voelt je extreem opvallend.",
+      "Kinderen vinden het grappig.",
+      "Je ziet meer details in je omgeving."
+    ],
+    "tips": [
+      "Loop echt heel langzaam.",
+      "Houd een serieuze blik.",
+      "Kies een druk pad."
+    ],
+    "criteria": [
+      "5 minuten in slow motion.",
+      "Niet gestopt door reacties.",
+      "Drukke route genomen."
+    ]
+  },
+  {
+    "id": 33,
+    "img_location": "assets/images/backward_sprint.jpg",
+    "title": "Achteruit-Sprint",
+    "description": "Ren 30 meter achteruit op een open stuk gras.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 168,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 75,
+    "expectations": [
+      "Je balanssysteem wordt getest.",
+      "Mensen kijken verbaasd.",
+      "Het is grappiger dan je denkt."
+    ],
+    "tips": [
+      "Kijk achterom voor veiligheid.",
+      "Kies een vlakke ondergrond.",
+      "Ren op maximale snelheid."
+    ],
+    "criteria": [
+      "30 meter achteruit gerend.",
+      "Veilig gedaan.",
+      "In het bijzijn van mensen."
+    ]
+  },
+  {
+    "id": 34,
+    "img_location": "assets/images/ground_star.jpg",
+    "title": "Grond-Ster",
+    "description": "Ga als een ster (armen en benen gespreid) op het gras liggen voor 1 minuut.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 437,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 264,
+    "expectations": [
+      "Je voelt je absoluut zichtbaar.",
+      "De grond is kouder dan je denkt.",
+      "Daarna voel je je bevrijd."
+    ],
+    "tips": [
+      "Kies een drukke plek.",
+      "Sluit je ogen.",
+      "Blijf stil liggen."
+    ],
+    "criteria": [
+      "1 minuut gelegen.",
+      "Armen en benen gespreid.",
+      "Op een publieke plek."
+    ]
+  },
+  {
+    "id": 35,
+    "img_location": "assets/images/joy_jump.jpg",
+    "title": "Jubel-Sprong",
+    "description": "Spring van blijdschap en roep 'ja!' op een drukke plek zonder aanleiding.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 289,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 218,
+    "expectations": [
+      "Het voelt absurd.",
+      "Mensen kijken verbaasd.",
+      "Maar het is bevrijdend."
+    ],
+    "tips": [
+      "Doe het vol overtuiging.",
+      "Zorg voor een zachtlandende plek.",
+      "Doe het meer dan één keer."
+    ],
+    "criteria": [
+      "Gesprongen en geroepen.",
+      "Op een drukke plek.",
+      "Minstens 2 keer gedaan."
+    ]
+  },
+  {
+    "id": 36,
+    "img_location": "assets/images/whistling.jpg",
+    "title": "Fluiten-Loop",
+    "description": "Fluit een liedje terwijl je door het park loopt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 225,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 94,
+    "expectations": [
+      "Je trekt aandacht.",
+      "Sommigen glimlachen.",
+      "Fluiten vereist meer concentratie dan je denkt."
+    ],
+    "tips": [
+      "Kies een vrolijk liedje.",
+      "Loop door, stop niet.",
+      "Maak oogcontact met wie reageert."
+    ],
+    "criteria": [
+      "Heel couplet gefloten.",
+      "Lopend gedaan.",
+      "Mensen gepasseerd."
+    ]
+  },
+  {
+    "id": 37,
+    "img_location": "assets/images/park_podium.jpg",
+    "title": "Parkpodium",
+    "description": "Ga op een bankje staan en houd een korte toespraak van 30 seconden over niets.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 349,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 297,
+    "expectations": [
+      "Je voelt je belachelijk.",
+      "Sommigen stoppen om te luisteren.",
+      "Het is een enorme overwinning op je ego."
+    ],
+    "tips": [
+      "Spreek duidelijk en luid.",
+      "Maak een begin, midden en einde.",
+      "Stap daarna kalm af."
+    ],
+    "criteria": [
+      "30 seconden gesproken.",
+      "Op een bankje gestaan.",
+      "Op een drukke plek."
+    ]
+  },
+  {
+    "id": 38,
+    "img_location": "assets/images/dizzy_walk.jpg",
+    "title": "Ronddraaien-Stoppen",
+    "description": "Draai je 10 keer om je as en probeer daarna rechtdoor te lopen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 99,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 88,
+    "expectations": [
+      "Je loopt bijna zeker schots en scheef.",
+      "Mensen lachen vriendelijk.",
+      "Het is een oncontroleerbaar moment."
+    ],
+    "tips": [
+      "Kies een veilige, open plek.",
+      "Tel de rondjes hardop.",
+      "Loop bewust in een rechte lijn."
+    ],
+    "criteria": [
+      "10 keer rondgedraaid.",
+      "Rechtdoor gelopen daarna.",
+      "Op een veilige plek."
+    ]
+  },
+  {
+    "id": 39,
+    "img_location": "assets/images/imaginary_friend.jpg",
+    "title": "Hand-In-Hand-Met-Lucht",
+    "description": "Loop 2 minuten hand in hand met een denkbeeldige persoon door het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 104,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 223,
+    "expectations": [
+      "Het is surrealistisch.",
+      "Mensen kijken heel verward.",
+      "Je lacht zelf ook."
+    ],
+    "tips": [
+      "Houd je arm echt opzij.",
+      "Praat eventueel met je denkbeeldige vriend.",
+      "Blijf 2 minuten volhouden."
+    ],
+    "criteria": [
+      "2 minuten gelopen.",
+      "Arm opgehouden.",
+      "Niet gestopt door reacties."
+    ]
+  },
+  {
+    "id": 40,
+    "img_location": "assets/images/path_meditate.jpg",
+    "title": "Parkpauze-Countdown",
+    "description": "Zit in kleermakerszit op het midden van een druk pad en mediteer 3 minuten.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 357,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 220,
+    "expectations": [
+      "Mensen lopen om je heen.",
+      "Je voelt je in de weg.",
+      "Maar je ruimte innemen is de oefening."
+    ],
+    "tips": [
+      "Sluit je ogen.",
+      "Accepteer de geluiden om je heen.",
+      "Sta pas op na 3 minuten."
+    ],
+    "criteria": [
+      "3 minuten gezeten.",
+      "Op een druk pad.",
+      "Ogen gesloten."
+    ]
+  },
+  {
+    "id": 41,
+    "img_location": "assets/images/lunges.jpg",
+    "title": "Lunges-Laan",
+    "description": "Doe 50 meter uitvalspassen door het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 49,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 108,
+    "expectations": [
+      "Je benen branden na de helft.",
+      "Mensen kijken maar je bent te moe om het te merken.",
+      "Je billen worden dankbaar."
+    ],
+    "tips": [
+      "Houd je knie boven je voet.",
+      "Neem grote stappen.",
+      "Wissel van been."
+    ],
+    "criteria": [
+      "50 meter gedaan.",
+      "Goede vorm aangehouden.",
+      "Niet gestopt halverwege."
+    ]
+  },
+  {
+    "id": 42,
+    "img_location": "assets/images/bench_dips.jpg",
+    "title": "Bankje-Dips",
+    "description": "Doe 15 tricepsdips op een parkbankje.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 554,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 133,
+    "expectations": [
+      "De triceps branden snel.",
+      "Het bankje is hoger dan een stoel.",
+      "15 is haalbaar maar niet makkelijk."
+    ],
+    "tips": [
+      "Handen op de rand.",
+      "Strek de armen volledig.",
+      "Ga diep genoeg naar beneden."
+    ],
+    "criteria": [
+      "15 dips gedaan.",
+      "Op een parkbankje.",
+      "Goede vorm."
+    ]
+  },
+  {
+    "id": 43,
+    "img_location": "assets/images/high_knees.jpg",
+    "title": "Knie-Heffen",
+    "description": "Doe 3 sets van 20 knieheffers op een open grasveld.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 392,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 90,
+    "expectations": [
+      "Je hartslag gaat omhoog.",
+      "Het gras maakt het onstabieler.",
+      "3 sets voelen als veel."
+    ],
+    "tips": [
+      "Til je knieën tot heuphoogte.",
+      "Houd je armen mee.",
+      "Rust 30 seconden tussen sets."
+    ],
+    "criteria": [
+      "3 sets van 20 gedaan.",
+      "Op gras.",
+      "Korte rust tussendoor."
+    ]
+  },
+  {
+    "id": 44,
+    "img_location": "assets/images/log_lift.jpg",
+    "title": "Boomstam-Omheling",
+    "description": "Til een boomstam of zware steen op en zet hem 10 meter verderop.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 570,
+    "difficulty": "Moeilijk",
+    "category": "Fysiek",
+    "comfyPoints": 185,
+    "expectations": [
+      "Het is zwaarder dan het lijkt.",
+      "Je hele lichaam doet mee.",
+      "Je ontdekt functionele kracht."
+    ],
+    "tips": [
+      "Til met je benen, niet je rug.",
+      "Kies een veilig gewicht.",
+      "Doe het bewust en gecontroleerd."
+    ],
+    "criteria": [
+      "Object opgetild.",
+      "10 meter verplaatst.",
+      "Veilig gedaan."
+    ]
+  },
+  {
+    "id": 45,
+    "img_location": "assets/images/park_laps.jpg",
+    "title": "Vijf-Ronden",
+    "description": "Loop 5 ronden om het grote grasveld zonder te stoppen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 375,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 112,
+    "expectations": [
+      "De eerste 2 ronden zijn makkelijk.",
+      "Daarna voel je de vermoeidheid.",
+      "Je mentale kracht bepaalt het."
+    ],
+    "tips": [
+      "Zet een constant tempo.",
+      "Adem door je neus.",
+      "Tel de ronden hardop."
+    ],
+    "criteria": [
+      "5 ronden voltooid.",
+      "Zonder te stoppen.",
+      "Constant tempo aangehouden."
+    ]
+  },
+  {
+    "id": 46,
+    "img_location": "assets/images/tree_balance.jpg",
+    "title": "Evenwichts-Boom",
+    "description": "Sta op één been naast een boom voor 2 minuten per been.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 201,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 148,
+    "expectations": [
+      "Je kleine spieren worden getest.",
+      "2 minuten is langer dan het klinkt.",
+      "Je concentratie is cruciaal."
+    ],
+    "tips": [
+      "Fixeer je blik op een punt.",
+      "Houd je kern actief.",
+      "Gebruik de boom niet als steun."
+    ],
+    "criteria": [
+      "2 minuten per been.",
+      "Boom niet aangeraakt.",
+      "Concentratie aangehouden."
+    ]
+  },
+  {
+    "id": 47,
+    "img_location": "assets/images/crab_walk.jpg",
+    "title": "Krabbeloop",
+    "description": "Loop 20 meter als een krab (zijwaarts) door het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 51,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 14,
+    "expectations": [
+      "Het is een grappige oefening.",
+      "Je heupspieren worden actief.",
+      "Mensen kijken maar glimlachen."
+    ],
+    "tips": [
+      "Stap breed.",
+      "Hou je knieën gebogen.",
+      "Wissel van richting na 10 meter."
+    ],
+    "criteria": [
+      "20 meter zijwaarts.",
+      "Knieën gebogen.",
+      "Beide richtingen gedaan."
+    ]
+  },
+  {
+    "id": 48,
+    "img_location": "assets/images/obstacle_course.jpg",
+    "title": "Bosparcours",
+    "description": "Maak je eigen hindernisbaan met bankjes, bomen en paden.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 238,
+    "difficulty": "Moeilijk",
+    "category": "Fysiek",
+    "comfyPoints": 259,
+    "expectations": [
+      "Creatief bewegen geeft energie.",
+      "Je belast andere spieren.",
+      "Het is leukst als je het hardop beschrijft."
+    ],
+    "tips": [
+      "Plan de route van tevoren.",
+      "Gebruik minstens 5 obstakels.",
+      "Loop hem 3 keer."
+    ],
+    "criteria": [
+      "Eigen baan gemaakt.",
+      "5 obstakels gebruikt.",
+      "3 keer gelopen."
+    ]
+  },
+  {
+    "id": 49,
+    "img_location": "assets/images/giant_steps.jpg",
+    "title": "Reuzenpassen",
+    "description": "Loop 100 meter in zo groot mogelijke stappen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 86,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 28,
+    "expectations": [
+      "Je heupen worden flink gestrekt.",
+      "Het ziet er grappig uit.",
+      "Je loopt sneller dan je denkt."
+    ],
+    "tips": [
+      "Stap zo ver mogelijk.",
+      "Houd je balans.",
+      "Land zacht."
+    ],
+    "criteria": [
+      "100 meter gedaan.",
+      "Zo groot mogelijke stappen.",
+      "Balans aangehouden."
+    ]
+  },
+  {
+    "id": 50,
+    "img_location": "assets/images/plank_walk.jpg",
+    "title": "Plank-Wandeling",
+    "description": "Doe elke 2 minuten een plank van 30 seconden tijdens een parkwandeling.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 108,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 104,
+    "expectations": [
+      "De combinatie van lopen en plank is intensief.",
+      "Je rug wordt sterker.",
+      "De grasvlakken zijn niet altijd comfortabel."
+    ],
+    "tips": [
+      "Gebruik een timer.",
+      "Zorg voor droge ondergrond.",
+      "Minimaal 4 planken doen."
+    ],
+    "criteria": [
+      "4 planken gedaan.",
+      "Elke 2 minuten.",
+      "30 seconden per plank."
+    ]
+  },
+  {
+    "id": 51,
+    "img_location": "assets/images/neg_diary.jpg",
+    "title": "Negatief-Dagboek",
+    "description": "Schrijf alle negatieve gedachten van de dag op en verscheur het papier daarna.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 289,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 123,
+    "expectations": [
+      "Het schrijven geeft lucht.",
+      "Het verscheuren is symbolisch maar krachtig.",
+      "Je voelt je lichter."
+    ],
+    "tips": [
+      "Schrijf snel en eerlijk.",
+      "Houd niets achter.",
+      "Verscheur het direct na het schrijven."
+    ],
+    "criteria": [
+      "Alles opgeschreven.",
+      "Papier verscheurd.",
+      "Lichter gevoel daarna."
+    ]
+  },
+  {
+    "id": 52,
+    "img_location": "assets/images/fear_convo.jpg",
+    "title": "Angst-Conversatie",
+    "description": "Schrijf een denkbeeldig gesprek met je grootste angst.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 378,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 233,
+    "expectations": [
+      "Het is confronterend.",
+      "Maar het geeft inzicht.",
+      "Je angst blijkt minder groot dan gedacht."
+    ],
+    "tips": [
+      "Schrijf de angst als een personage.",
+      "Stel hem vragen.",
+      "Schrijf de antwoorden eerlijk."
+    ],
+    "criteria": [
+      "Gesprek volledig geschreven.",
+      "Angst als personage.",
+      "Vragen en antwoorden."
+    ]
+  },
+  {
+    "id": 53,
+    "img_location": "assets/images/day_summary.jpg",
+    "title": "Dag-Samenvatting",
+    "description": "Schrijf je dag samen in exact 3 zinnen: begin, midden en einde.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 384,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 20,
+    "expectations": [
+      "Drie zinnen dwingt je tot essentie.",
+      "Je dag krijgt een verhaalstructuur.",
+      "Het is een rustig afsluitmoment."
+    ],
+    "tips": [
+      "Wees concreet en eerlijk.",
+      "Elk van de 3 elementen in één zin.",
+      "Schrijf het meteen na aankomst."
+    ],
+    "criteria": [
+      "3 zinnen geschreven.",
+      "Begin, midden, einde aanwezig.",
+      "Concreet en eerlijk."
+    ]
+  },
+  {
+    "id": 54,
+    "img_location": "assets/images/success_diary.jpg",
+    "title": "Succes-Dagboek",
+    "description": "Schrijf 5 kleine successen van de afgelopen week op.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 219,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 32,
+    "expectations": [
+      "Kleine successen zijn het meest waardevol.",
+      "Je ontdekt dat je meer doet dan je denkt.",
+      "Het geeft zelfvertrouwen."
+    ],
+    "tips": [
+      "Denk aan echt kleine dingen.",
+      "Wees trots, ook al voelt het klein.",
+      "Lees ze daarna hardop."
+    ],
+    "criteria": [
+      "5 successen opgeschreven.",
+      "Kleine dingen ook meegenomen.",
+      "Hardop gelezen."
+    ]
+  },
+  {
+    "id": 55,
+    "img_location": "assets/images/boundary_exercise.jpg",
+    "title": "Grens-Oefening",
+    "description": "Schrijf 3 situaties op waar je 'nee' had moeten zeggen maar 'ja' zei.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 278,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 260,
+    "expectations": [
+      "Dit confronteert je met je grenzen.",
+      "Het is moeilijk om eerlijk te zijn.",
+      "Het inzicht is waardevol voor de toekomst."
+    ],
+    "tips": [
+      "Wees eerlijk en specifiek.",
+      "Schrijf ook wat je volgende keer zou doen.",
+      "Oordeel niet over jezelf."
+    ],
+    "criteria": [
+      "3 situaties opgeschreven.",
+      "Alternatief per situatie.",
+      "Zonder zelfkritiek."
+    ]
+  },
+  {
+    "id": 56,
+    "img_location": "assets/images/value_sketch.jpg",
+    "title": "Waardenschets",
+    "description": "Teken een schets die jouw belangrijkste waarde symboliseert.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 180,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 84,
+    "expectations": [
+      "Tekenen maakt het abstracter concreet.",
+      "Je ontdekt wat de waarde voor je betekent.",
+      "De schets is persoonlijk en uniek."
+    ],
+    "tips": [
+      "Kies één waarde.",
+      "Teken zonder nadenken.",
+      "Voeg eventueel een woord toe."
+    ],
+    "criteria": [
+      "Schets gemaakt.",
+      "Één waarde uitgekozen.",
+      "Persoonlijk symbool."
+    ]
+  },
+  {
+    "id": 57,
+    "img_location": "assets/images/vulnerability_letter.jpg",
+    "title": "Kwetsbaarheid-Brief",
+    "description": "Schrijf een brief over iets waar je je voor schaamt maar nooit over praat.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 255,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 243,
+    "expectations": [
+      "Het schrijven is heel confronterend.",
+      "Maar ook heel bevrijdend.",
+      "Je hoeft de brief nooit te delen."
+    ],
+    "tips": [
+      "Schrijf eerlijk zonder zelfcensuur.",
+      "Veroordeel jezelf niet.",
+      "Bewaar of verscheur na het schrijven."
+    ],
+    "criteria": [
+      "Brief volledig geschreven.",
+      "Eerlijk en ongecensureerd.",
+      "Beslissing over bewaren genomen."
+    ]
+  },
+  {
+    "id": 58,
+    "img_location": "assets/images/ten_year.jpg",
+    "title": "Tien-Jaar-Spiegel",
+    "description": "Stel je voor dat je 10 jaar ouder bent. Wat zou je nu zeggen aan jezelf?",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 478,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 95,
+    "expectations": [
+      "Het perspectief verandert.",
+      "Je ziet je huidige problemen anders.",
+      "De boodschap is soms verrassend warm."
+    ],
+    "tips": [
+      "Schrijf vanuit de toekomst.",
+      "Wees vriendelijk maar eerlijk.",
+      "Focust op wat echt belangrijk is."
+    ],
+    "criteria": [
+      "Brief geschreven.",
+      "Vanuit toekomstig perspectief.",
+      "Warm maar eerlijk."
+    ]
+  },
+  {
+    "id": 59,
+    "img_location": "assets/images/guided_meditate.jpg",
+    "title": "Park-Meditatie-Gids",
+    "description": "Leid jezelf hardop door een 5-minuten meditatie terwijl je op het gras zit.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 281,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 223,
+    "expectations": [
+      "Hardop spreken in het park voelt vreemd.",
+      "Maar het helpt je echt te focussen.",
+      "Anderen horen je misschien."
+    ],
+    "tips": [
+      "Spreek rustig en duidelijk.",
+      "Beschrijf je ademhaling en omgeving.",
+      "Sluit af met een positieve intentie."
+    ],
+    "criteria": [
+      "5 minuten geleid.",
+      "Hardop gesproken.",
+      "Volledig afgemaakt."
+    ]
+  },
+  {
+    "id": 60,
+    "img_location": "assets/images/thought_cloud.jpg",
+    "title": "Gedachten-Wolk",
+    "description": "Schrijf elke gedachte op die in 10 minuten opkomt, zonder filter.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 229,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 146,
+    "expectations": [
+      "Je ontdekt hoeveel gedachten er zijn.",
+      "De meeste gedachten zijn banaal.",
+      "Het geeft een raar maar bevredigend inzicht."
+    ],
+    "tips": [
+      "Schrijf continu, stop niet.",
+      "Oordeel niet over je gedachten.",
+      "Lees daarna terug."
+    ],
+    "criteria": [
+      "10 minuten geschreven.",
+      "Geen censuur.",
+      "Daarna gelezen."
+    ]
+  },
+  {
+    "id": 61,
+    "img_location": "assets/images/bird_listen.jpg",
+    "title": "Vogel-Luistersessie",
+    "description": "Zit 15 minuten stil en probeer elk vogelgeluid te identificeren.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 62,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 30,
+    "expectations": [
+      "Je ontdekt meer vogels dan je denkt.",
+      "De stilte helpt je horen.",
+      "Het is een kalmerende oefening."
+    ],
+    "tips": [
+      "Gebruik een vogelgeluid-app als bonus.",
+      "Schrijf elk geluid op.",
+      "Beweeg niet om vogels niet te verjagen."
+    ],
+    "criteria": [
+      "15 minuten geluisterd.",
+      "Minimaal 3 geluiden herkend.",
+      "Stilgezeten."
+    ]
+  },
+  {
+    "id": 62,
+    "img_location": "assets/images/sunset_watch.jpg",
+    "title": "Zonsondergang-Wacht",
+    "description": "Blijf in het park tot de zon ondergaat en bekijk het bewust.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 37,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 104,
+    "expectations": [
+      "Het tijdstip vereist planning.",
+      "De kleuren zijn elke dag anders.",
+      "Je hebt een gevoel van afsluiting."
+    ],
+    "tips": [
+      "Check de tijd van tevoren.",
+      "Kies een open plek met vrij uitzicht.",
+      "Geen telefoon tijdens het kijken."
+    ],
+    "criteria": [
+      "Zonsondergang bijgewoond.",
+      "Op een open plek.",
+      "Zonder scherm."
+    ]
+  },
+  {
+    "id": 63,
+    "img_location": "assets/images/raindrop_race.jpg",
+    "title": "Regendruppel-Race",
+    "description": "Kies twee regendruppels op een raam of blad en race ze mentaal.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 415,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 30,
+    "expectations": [
+      "Het is kinderlijk en heerlijk.",
+      "De spanning is verrassend echt.",
+      "Je vergeet even alles."
+    ],
+    "tips": [
+      "Kies ze nauwkeurig.",
+      "Wijs een winnaar aan.",
+      "Herhaal 5 races."
+    ],
+    "criteria": [
+      "5 races gedaan.",
+      "Winnaar aangewezen.",
+      "Vol enthousiasme gedaan."
+    ]
+  },
+  {
+    "id": 64,
+    "img_location": "assets/images/flower_study.jpg",
+    "title": "Bloem-Portret",
+    "description": "Kies één bloem of plant en bestudeer hem 10 minuten lang in detail.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 72,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 27,
+    "expectations": [
+      "Je ziet details die je normaal mist.",
+      "Het is een oefening in aanwezigheid.",
+      "De plant is indrukwekkender dan je denkt."
+    ],
+    "tips": [
+      "Kijk naar kleur, textuur en structuur.",
+      "Beschrijf hem in woorden.",
+      "Raak hem zachtjes aan."
+    ],
+    "criteria": [
+      "10 minuten geobserveerd.",
+      "Details beschreven.",
+      "Aangeraakt."
+    ]
+  },
+  {
+    "id": 65,
+    "img_location": "assets/images/night_sounds.jpg",
+    "title": "Nacht-Geluiden",
+    "description": "Zit na zonsondergang in het park en luister naar de nachtgeluiden.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 585,
+    "difficulty": "Moeilijk",
+    "category": "Ervaring",
+    "comfyPoints": 202,
+    "expectations": [
+      "Het is heel anders dan overdag.",
+      "Sommige geluiden zijn mysterieus.",
+      "Je voelt je kwetsbaarder maar levendiger."
+    ],
+    "tips": [
+      "Ga bij voorkeur niet alleen.",
+      "Houd je telefoon bij de hand.",
+      "Luister actief en noteer."
+    ],
+    "criteria": [
+      "Na zonsondergang geweest.",
+      "Minimaal 15 minuten gebleven.",
+      "Geluiden genoteerd."
+    ]
+  },
+  {
+    "id": 66,
+    "img_location": "assets/images/nature_rhythm.jpg",
+    "title": "Natuur-Ritme",
+    "description": "Zoek een ritme in de natuur (wind, water, vogels) en tap het mee met je hand.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 222,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 30,
+    "expectations": [
+      "Er is meer ritme in de natuur dan je denkt.",
+      "Het verbindt je met je omgeving.",
+      "Het is een grappig experiment."
+    ],
+    "tips": [
+      "Luister eerst 2 minuten.",
+      "Tap het dan mee.",
+      "Probeer verschillende geluiden."
+    ],
+    "criteria": [
+      "Ritme gevonden.",
+      "Meegetapt.",
+      "Meerdere geluiden geprobeerd."
+    ]
+  },
+  {
+    "id": 67,
+    "img_location": "assets/images/park_map.jpg",
+    "title": "Park-Kaart",
+    "description": "Teken uit het hoofd een kaart van het park zo nauwkeurig mogelijk.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 410,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 138,
+    "expectations": [
+      "Je ontdekt wat je wel en niet hebt opgemerkt.",
+      "De kaart is nooit perfect.",
+      "Het is een interessante test van geheugen."
+    ],
+    "tips": [
+      "Teken zonder het te checken.",
+      "Voeg details toe zoals bankjes en bomen.",
+      "Controleer daarna."
+    ],
+    "criteria": [
+      "Kaart getekend.",
+      "Uit het hoofd.",
+      "Vergelijking met werkelijkheid gemaakt."
+    ]
+  },
+  {
+    "id": 68,
+    "img_location": "assets/images/moonwalk.jpg",
+    "title": "Maneschijn-Wandeling",
+    "description": "Maak een wandeling bij maanlicht zonder zaklamp.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 474,
+    "difficulty": "Moeilijk",
+    "category": "Ervaring",
+    "comfyPoints": 288,
+    "expectations": [
+      "Je ogen passen zich aan.",
+      "Het park is onherkenbaar anders.",
+      "Je zintuigen worden scherp."
+    ],
+    "tips": [
+      "Kies een volle maan of bijna-volle maan.",
+      "Ga niet alleen.",
+      "Laat je ogen wennen voor je begint."
+    ],
+    "criteria": [
+      "Wandeling gemaakt bij maanlicht.",
+      "Geen zaklamp gebruikt.",
+      "Minimaal 20 minuten."
+    ]
+  },
+  {
+    "id": 69,
+    "img_location": "assets/images/stone_stack.jpg",
+    "title": "Stenen-Stapelen",
+    "description": "Stapel stenen zo hoog als je kunt op een toren.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 276,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 19,
+    "expectations": [
+      "Geduld wordt getest.",
+      "Balans is de sleutel.",
+      "De toren valt vaker dan je denkt."
+    ],
+    "tips": [
+      "Begin met de grootste steen onderaan.",
+      "Ga langzaam en bewust.",
+      "Adem rustig."
+    ],
+    "criteria": [
+      "Toren gestapeld.",
+      "Minimaal 5 stenen.",
+      "Zelfstandig gedaan."
+    ]
+  },
+  {
+    "id": 70,
+    "img_location": "assets/images/sunrise_yoga.jpg",
+    "title": "Zonsopgang-Yoga",
+    "description": "Doe 15 minuten yoga bij zonsopgang in het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 257,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 92,
+    "expectations": [
+      "Vroeg opstaan is zwaar maar de beloning is groot.",
+      "De frisse lucht maakt yoga intenser.",
+      "Je dag begint met kracht."
+    ],
+    "tips": [
+      "Ga op tijd van huis.",
+      "Begin rustig met ademhaling.",
+      "Eindig met een stille minuut."
+    ],
+    "criteria": [
+      "15 minuten yoga gedaan.",
+      "Bij zonsopgang.",
+      "Buiten in het park."
+    ]
+  },
+  {
+    "id": 71,
+    "img_location": "assets/images/tree_bio.jpg",
+    "title": "Boom-Biografie",
+    "description": "Kies een boom en schrijf zijn complete levensverhaal van kiem tot nu.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 556,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 146,
+    "expectations": [
+      "Je fantasie combineert met ecologie.",
+      "Het verhaal wordt rijker dan verwacht.",
+      "Je kijkt anders naar bomen na afloop."
+    ],
+    "tips": [
+      "Geef de boom een naam.",
+      "Beschrijf seizoenen, stormen en mensen die voorbij kwamen.",
+      "Schrijf minstens 10 zinnen."
+    ],
+    "criteria": [
+      "Minimaal 10 zinnen.",
+      "Naam gegeven.",
+      "Seizoenen en gebeurtenissen beschreven."
+    ]
+  },
+  {
+    "id": 72,
+    "img_location": "assets/images/leaf_music.jpg",
+    "title": "Bladmuziek",
+    "description": "Maak muziek met gevonden materialen: bladeren, stenen, stokken.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 443,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 108,
+    "expectations": [
+      "Er zit meer muziek in de natuur dan je denkt.",
+      "Je creatieve grenzen worden verlegd.",
+      "Het is leuk om te improviseren."
+    ],
+    "tips": [
+      "Experimenteer met ritme en melodie.",
+      "Combineer verschillende materialen.",
+      "Speel een compositie van 1 minuut."
+    ],
+    "criteria": [
+      "Muziek gemaakt.",
+      "Met gevonden materialen.",
+      "1 minuut compositie gespeeld."
+    ]
+  },
+  {
+    "id": 73,
+    "img_location": "assets/images/micro_story.jpg",
+    "title": "Micro-Verhaal",
+    "description": "Schrijf een verhaal van precies 50 woorden over iets dat je in het park ziet.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 413,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 149,
+    "expectations": [
+      "50 woorden is streng maar bevrijdend.",
+      "Elk woord telt.",
+      "Het resultaat is poëtisch."
+    ],
+    "tips": [
+      "Tel de woorden nauwkeurig.",
+      "Herschrijf tot je precies op 50 zit.",
+      "Lees het hardop voor."
+    ],
+    "criteria": [
+      "50 woorden precies.",
+      "Over iets in het park.",
+      "Hardop gelezen."
+    ]
+  },
+  {
+    "id": 74,
+    "img_location": "assets/images/park_manifest.jpg",
+    "title": "Park-Manifest",
+    "description": "Schrijf een manifest voor jouw ideale park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 229,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 33,
+    "expectations": [
+      "Je fantasie wordt losgelaten.",
+      "Het onthult wat jij in een omgeving nodig hebt.",
+      "Het kan grappig of serieus zijn."
+    ],
+    "tips": [
+      "Begin met 'In mijn ideale park...'.",
+      "Beschrijf minimaal 5 regels.",
+      "Maak het persoonlijk."
+    ],
+    "criteria": [
+      "Manifest geschreven.",
+      "Minimaal 5 regels.",
+      "Persoonlijk en specifiek."
+    ]
+  },
+  {
+    "id": 75,
+    "img_location": "assets/images/sound_poem.jpg",
+    "title": "Klank-Gedicht",
+    "description": "Schrijf een gedicht dat klinkt als het park (gebruik klanknabootsing).",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 526,
+    "difficulty": "Moeilijk",
+    "category": "Creatief",
+    "comfyPoints": 192,
+    "expectations": [
+      "Klanknabootsing is moeilijker dan je denkt.",
+      "Het gedicht heeft een eigen muzikaliteit.",
+      "Lees het voor om het effect te horen."
+    ],
+    "tips": [
+      "Gebruik woorden als 'suist', 'knerpt', 'ruist'.",
+      "Lees het hardop voor jezelf.",
+      "Schrijf minimaal 6 regels."
+    ],
+    "criteria": [
+      "Gedicht geschreven.",
+      "Klanknabootsing gebruikt.",
+      "Hardop gelezen."
+    ]
+  },
+  {
+    "id": 76,
+    "img_location": "assets/images/selfportrait_feel.jpg",
+    "title": "Zelf-Portret-Zonder-Spiegel",
+    "description": "Teken een zelfportret op basis van gevoel, niet op basis van hoe je eruitziet.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 98,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 138,
+    "expectations": [
+      "Het resultaat is altijd verrassend.",
+      "Je ontdekt hoe je jezelf innerlijk ziet.",
+      "Het is een bijzonder persoonlijk kunstwerk."
+    ],
+    "tips": [
+      "Begin met je gevoel van vandaag.",
+      "Gebruik kleuren of symbolen.",
+      "Vergelijk het met een echte foto."
+    ],
+    "criteria": [
+      "Portret getekend.",
+      "Op basis van gevoel.",
+      "Vergeleken met echte foto."
+    ]
+  },
+  {
+    "id": 77,
+    "img_location": "assets/images/park_alphabet.jpg",
+    "title": "Park-Alfabet",
+    "description": "Vind voor elke letter van het alfabet een object of ding in het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 117,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 81,
+    "expectations": [
+      "Sommige letters zijn heel moeilijk.",
+      "Je kijkt anders om je heen.",
+      "Het is een leuke tijdsverdrijf."
+    ],
+    "tips": [
+      "Loop het hele park door.",
+      "Schrijf elk item op.",
+      "Teller bijhouden per letter."
+    ],
+    "criteria": [
+      "Alle 26 letters ingevuld.",
+      "Elk een echt item.",
+      "Opgeschreven."
+    ]
+  },
+  {
+    "id": 78,
+    "img_location": "assets/images/timeline.jpg",
+    "title": "Tijdlijn-Tekening",
+    "description": "Teken je persoonlijke tijdlijn van geboorte tot nu op één vel papier.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 168,
+    "difficulty": "Moeilijk",
+    "category": "Creatief",
+    "comfyPoints": 194,
+    "expectations": [
+      "Je ziet je leven als een geheel.",
+      "Bepaalde momenten springen eruit.",
+      "Het is zowel nostalgisch als motiverend."
+    ],
+    "tips": [
+      "Begin links met je geboorte.",
+      "Markeer grote momenten.",
+      "Voeg kleine symbolen toe."
+    ],
+    "criteria": [
+      "Tijdlijn getekend.",
+      "Begin tot nu ingevuld.",
+      "Symbolen gebruikt."
+    ]
+  },
+  {
+    "id": 79,
+    "img_location": "assets/images/mini_world.jpg",
+    "title": "Miniatuur-Wereld",
+    "description": "Bouw een miniatuurwereld van takjes, stenen en bladeren.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 70,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 129,
+    "expectations": [
+      "Het is meditatief.",
+      "Het vraagt ruimtelijk denken.",
+      "De wereld heeft een eigen logica."
+    ],
+    "tips": [
+      "Bouw een plek voor 'mensen'.",
+      "Voeg details toe zoals wegen en gebouwen.",
+      "Maak er een foto van."
+    ],
+    "criteria": [
+      "Miniatuurwereld gebouwd.",
+      "Details aanwezig.",
+      "Gefotografeerd."
+    ]
+  },
+  {
+    "id": 80,
+    "img_location": "assets/images/sand_writing.jpg",
+    "title": "Park-Graffiti",
+    "description": "Schrijf een inspirerende zin in het zand of op papier en laat hem achter.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 395,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 34,
+    "expectations": [
+      "Je laat iets achter voor vreemden.",
+      "De keuze van de zin is het moeilijkst.",
+      "Het is een anoniem cadeau."
+    ],
+    "tips": [
+      "Kies een zin die jou inspireert.",
+      "Schrijf hem leesbaar.",
+      "Laat hem achter op een zichtbare plek."
+    ],
+    "criteria": [
+      "Zin geschreven.",
+      "Achtergelaten.",
+      "Op een zichtbare plek."
+    ]
+  },
+  {
+    "id": 81,
+    "img_location": "assets/images/table_tour.jpg",
+    "title": "Tafeltje-Tour",
+    "description": "Maak kennis met minstens 2 andere tafels tijdens je restaurantbezoek.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 484,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 251,
+    "expectations": [
+      "De meeste mensen zijn open.",
+      "Maar je moet de drempel overwinnen.",
+      "De blikken van personeel zijn interessant."
+    ],
+    "tips": [
+      "Wacht op een rustig moment.",
+      "Begin met een opmerking over het eten.",
+      "Hou het kort en vriendelijk."
+    ],
+    "criteria": [
+      "2 tafels benaderd.",
+      "Beide contacten gemaakt.",
+      "Vriendelijk gebleven."
+    ]
+  },
+  {
+    "id": 82,
+    "img_location": "assets/images/waiter_dream.jpg",
+    "title": "Ober-Levensverhaal",
+    "description": "Vraag de ober toestemming om een korte vraag te stellen en vraag naar hun droomjob.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 262,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 142,
+    "expectations": [
+      "Obers hebben soms verborgen dromen.",
+      "Je bouwt een menselijker contact.",
+      "Het kan een heel kort of lang gesprek worden."
+    ],
+    "tips": [
+      "Vraag toestemming.",
+      "Luister echt naar het antwoord.",
+      "Bedank hen voor hun openheid."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Antwoord ontvangen.",
+      "Oprecht bedankt."
+    ]
+  },
+  {
+    "id": 83,
+    "img_location": "assets/images/restaurant_ambassador.jpg",
+    "title": "Restaurant-Ambassadeur",
+    "description": "Prijs het restaurant aan bij andere gasten die voor het eerst komen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 16,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 45,
+    "expectations": [
+      "Je deelt echte enthousiasme.",
+      "Mensen waarderen een tip van een gast.",
+      "Je bouwt een band met de plek."
+    ],
+    "tips": [
+      "Herken nieuwe bezoekers.",
+      "Geef concrete aanbevelingen.",
+      "Wees enthousiast maar niet opdringerig."
+    ],
+    "criteria": [
+      "Aanbeveling gedaan.",
+      "Aan iemand nieuw.",
+      "Concreet en enthousiast."
+    ]
+  },
+  {
+    "id": 84,
+    "img_location": "assets/images/order_challenge.jpg",
+    "title": "Bestelling-Wedstrijd",
+    "description": "Daag de ober uit om het lekkerste gerecht te kiezen en leg uit waarom je het wint.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 554,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 89,
+    "expectations": [
+      "Het is een leuk spel.",
+      "Obers spelen soms enthousiast mee.",
+      "Je krijgt een gepersonaliseerde aanbeveling."
+    ],
+    "tips": [
+      "Zeg het met humor.",
+      "Luister naar de argumenten.",
+      "Bestel het gerecht dat ze kiezen."
+    ],
+    "criteria": [
+      "Wedstrijd voorgesteld.",
+      "Ober heeft gekozen.",
+      "Gerecht besteld."
+    ]
+  },
+  {
+    "id": 85,
+    "img_location": "assets/images/thank_speech.jpg",
+    "title": "Tafeldankwoord",
+    "description": "Spreek aan het einde van de maaltijd een formeel dankwoord uit aan het personeel.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 278,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 271,
+    "expectations": [
+      "Het voelt theatraal.",
+      "Maar personeel is altijd geroerd.",
+      "Je hoort jezelf praten over wat echt leuk was."
+    ],
+    "tips": [
+      "Sta op als je het doet.",
+      "Noem specifieke dingen.",
+      "Kijk het personeel aan."
+    ],
+    "criteria": [
+      "Dankwoord uitgesproken.",
+      "Opgestaan.",
+      "Specifiek en oprecht."
+    ]
+  },
+  {
+    "id": 86,
+    "img_location": "assets/images/staff_birthday.jpg",
+    "title": "Ober-Geboortedag",
+    "description": "Vraag of iemand van het personeel vandaag of binnenkort jarig is en feliciteer hen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 119,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 31,
+    "expectations": [
+      "De kans is klein maar de geste is groot.",
+      "Personeel voelt zich gezien.",
+      "Het is een warme wisselwerking."
+    ],
+    "tips": [
+      "Vraag vriendelijk.",
+      "Feliciteer oprecht.",
+      "Zing eventueel een regel."
+    ],
+    "criteria": [
+      "Gevraagd.",
+      "Gefeliciteerd indien van toepassing.",
+      "Warm en oprecht."
+    ]
+  },
+  {
+    "id": 87,
+    "img_location": "assets/images/proost.jpg",
+    "title": "Tafel-Podium",
+    "description": "Sta op en zeg luid 'Proost!' aan het hele restaurant.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 450,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 212,
+    "expectations": [
+      "Iedereen kijkt je aan.",
+      "Sommigen doen mee.",
+      "Het is grappig en onverwacht."
+    ],
+    "tips": [
+      "Kies een goed moment.",
+      "Hef je glas.",
+      "Glimlach en wacht op reactie."
+    ],
+    "criteria": [
+      "Proost uitgesproken.",
+      "Luid genoeg voor het restaurant.",
+      "Glas geheven."
+    ]
+  },
+  {
+    "id": 88,
+    "img_location": "assets/images/deep_voice.jpg",
+    "title": "Laagste-Stem",
+    "description": "Bestel je drankje in de laagste stem die je kunt maken.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 469,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 95,
+    "expectations": [
+      "Het is grappig.",
+      "De barista reageert verrast.",
+      "Andere gasten horen het."
+    ],
+    "tips": [
+      "Oefen even voor de spiegel.",
+      "Zeg het met een rechte rug.",
+      "Hou het vast tot de bestelling klaar is."
+    ],
+    "criteria": [
+      "Besteld met diepe stem.",
+      "Gedurende hele bestelling.",
+      "In het bijzijn van anderen."
+    ]
+  },
+  {
+    "id": 89,
+    "img_location": "assets/images/vip_entrance.jpg",
+    "title": "Tafelreservatie-Compleet",
+    "description": "Feliciteer de gastheer/gastvrouw als een VIP bij binnenkomst.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 274,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 75,
+    "expectations": [
+      "Het zet de toon voor de avond.",
+      "Je voelt je direct ontspannen.",
+      "Het personeel reageert verrast."
+    ],
+    "tips": [
+      "Loop zelfverzekerd naar binnen.",
+      "Complimenteer direct.",
+      "Wees warm en nonchalant."
+    ],
+    "criteria": [
+      "Compliment gegeven bij ingang.",
+      "Zelfverzekerd binnengestapt.",
+      "Personeel verrast."
+    ]
+  },
+  {
+    "id": 90,
+    "img_location": "assets/images/slow_order.jpg",
+    "title": "Langzaamste-Bestelling",
+    "description": "Neem 5 minuten om je bestelling te doen, met veel pauzes en nadenken.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 517,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 299,
+    "expectations": [
+      "De ober wacht geduldig maar gespannen.",
+      "Je voelt de sociale druk.",
+      "Je traint het uitzitten van ongemak."
+    ],
+    "tips": [
+      "Wees vriendelijk en verontschuldig je even.",
+      "Lees het menu echt heel langzaam.",
+      "Bestel dan met zekerheid."
+    ],
+    "criteria": [
+      "5 minuten genomen.",
+      "Vriendelijk gebleven.",
+      "Uiteindelijk zeker besteld."
+    ]
+  },
+  {
+    "id": 91,
+    "img_location": "assets/images/mime_order.jpg",
+    "title": "Mime-Bestelling",
+    "description": "Bestel je diner volledig in mime (geen woorden).",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 187,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 272,
+    "expectations": [
+      "De ober doet mee of vraagt om woorden.",
+      "Andere gasten kijken toe.",
+      "Je creatieve communicatie wordt getest."
+    ],
+    "tips": [
+      "Oefen de gebaren van tevoren.",
+      "Blijf doorzetten.",
+      "Glimlach erbij."
+    ],
+    "criteria": [
+      "Bestelling zonder woorden gedaan.",
+      "Mime tot het einde.",
+      "Gerecht ontvangen."
+    ]
+  },
+  {
+    "id": 92,
+    "img_location": "assets/images/toilet_squat.jpg",
+    "title": "Eet-Pauze-Squat",
+    "description": "Doe elke keer als je wacht tussen gangen 10 squats op het toilet.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 113,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 42,
+    "expectations": [
+      "Je combineert eten met beweging.",
+      "Niemand ziet het.",
+      "Je benen danken je."
+    ],
+    "tips": [
+      "Ga naar het toilet tussen gangen.",
+      "Doe de squats echt.",
+      "Minimaal 3 keer."
+    ],
+    "criteria": [
+      "3 keer gedaan.",
+      "10 squats per keer.",
+      "Volledig gedaan."
+    ]
+  },
+  {
+    "id": 93,
+    "img_location": "assets/images/no_backrest.jpg",
+    "title": "Rechterug-Diner",
+    "description": "Zit de volledige maaltijd zonder rugleuning (op het randje van je stoel).",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 524,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 113,
+    "expectations": [
+      "Je rug merkt het na 10 minuten.",
+      "Je eet bewuster.",
+      "Je houding verandert."
+    ],
+    "tips": [
+      "Activeer je buikspieren.",
+      "Controleer elke minuut.",
+      "Adem diep om te helpen."
+    ],
+    "criteria": [
+      "Volledig diner zonder leuning.",
+      "Actief gecorrigeerd.",
+      "Rug recht gehouden."
+    ]
+  },
+  {
+    "id": 94,
+    "img_location": "assets/images/slow_fork.jpg",
+    "title": "Langzame-Vork",
+    "description": "Leg je vork neer na elke hap en wacht 10 seconden voor de volgende.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 161,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 100,
+    "expectations": [
+      "Je eet veel langzamer.",
+      "Je smaakt meer.",
+      "Je wordt eerder vol."
+    ],
+    "tips": [
+      "Leg de vork echt neer.",
+      "Tel de 10 seconden.",
+      "Hou vol voor de hele maaltijd."
+    ],
+    "criteria": [
+      "Vork neergelegd na elke hap.",
+      "10 seconden gewacht.",
+      "Hele maaltijd volgehouden."
+    ]
+  },
+  {
+    "id": 95,
+    "img_location": "assets/images/standing_starter.jpg",
+    "title": "Standing-Start",
+    "description": "Vraag of je de eerste gang staand mag eten.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 170,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 122,
+    "expectations": [
+      "Het is ongewoon maar restaurants kunnen het toestaan.",
+      "Je eet anders staand.",
+      "Je lichaam ervaart de maaltijd anders."
+    ],
+    "tips": [
+      "Vraag vriendelijk.",
+      "Kies een comfortabele plek.",
+      "Zit daarna voor de rest."
+    ],
+    "criteria": [
+      "Staand gegeten eerste gang.",
+      "Toestemming gevraagd.",
+      "Comfortabel gedaan."
+    ]
+  },
+  {
+    "id": 96,
+    "img_location": "assets/images/chopsticks.jpg",
+    "title": "Eetstokjes-Avontuur",
+    "description": "Vraag om eetstokjes ook al is het geen Aziatisch restaurant.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 548,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 144,
+    "expectations": [
+      "Het is moeilijker dan het lijkt.",
+      "Je eet bewuster.",
+      "Het eten heeft een andere textuur."
+    ],
+    "tips": [
+      "Vraag vriendelijk om eetstokjes.",
+      "Probeer alles ermee te eten.",
+      "Geef niet op bij het eerste gerecht."
+    ],
+    "criteria": [
+      "Eetstokjes gevraagd.",
+      "Minstens één gerecht ermee gegeten.",
+      "Niet opgegeven."
+    ]
+  },
+  {
+    "id": 97,
+    "img_location": "assets/images/taste_desc.jpg",
+    "title": "Smaak-Beschrijving",
+    "description": "Schrijf voor elk gerecht een gedetailleerde smaakbeschrijving van 3 zinnen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 336,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 75,
+    "expectations": [
+      "Je vocabulaire voor smaak is armer dan je denkt.",
+      "Je proeft bewuster.",
+      "De beschrijvingen worden poëtischer."
+    ],
+    "tips": [
+      "Schrijf direct na de eerste hap.",
+      "Gebruik meer dan 'lekker' of 'goed'.",
+      "Beschrijf textuur, temperatuur en afdronk."
+    ],
+    "criteria": [
+      "Per gerecht 3 zinnen.",
+      "Rijk vocabulaire gebruikt.",
+      "Onmiddellijk na eerste hap geschreven."
+    ]
+  },
+  {
+    "id": 98,
+    "img_location": "assets/images/waiter_empathy.jpg",
+    "title": "Personeel-Empathie",
+    "description": "Stel je tijdens de maaltijd voor hoe de werkdag van elke ober eruit ziet.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 24,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 41,
+    "expectations": [
+      "Je kijkt met andere ogen.",
+      "Je service-ervaring verandert.",
+      "Je dankbaarheid neemt toe."
+    ],
+    "tips": [
+      "Observeer het personeel actief.",
+      "Stel je hun dag voor.",
+      "Wees extra vriendelijk als resultaat."
+    ],
+    "criteria": [
+      "Minstens 2 personeelsleden geobserveerd.",
+      "Dag voorgesteld.",
+      "Extra vriendelijk geweest."
+    ]
+  },
+  {
+    "id": 99,
+    "img_location": "assets/images/silent_meal.jpg",
+    "title": "Stille-Maaltijd",
+    "description": "Eet een volledig gang in totale stilte, zonder te praten als je met iemand bent.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 376,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 189,
+    "expectations": [
+      "Het is awkward als je samen bent.",
+      "Maar de smaak intenseert.",
+      "De stilte schept een bijzondere verbinding."
+    ],
+    "tips": [
+      "Spreek af met je tafelgenoot.",
+      "Communiceer met gebaren.",
+      "Breek de stilte pas na de gang."
+    ],
+    "criteria": [
+      "Volledige gang in stilte.",
+      "Afspraak gemaakt.",
+      "Niet gesproken."
+    ]
+  },
+  {
+    "id": 100,
+    "img_location": "assets/images/pre_meal_meditate.jpg",
+    "title": "Restaurant-Meditatie",
+    "description": "Doe voor aanvang van de maaltijd 3 minuten stilte aan je tafeltje.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 250,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 114,
+    "expectations": [
+      "Het zet de toon voor een bewuste maaltijd.",
+      "Het voelt ongewoon.",
+      "Maar de maaltijd smaakt beter."
+    ],
+    "tips": [
+      "Sluit je ogen.",
+      "Adem 3 keer diep.",
+      "Dank voor het eten in gedachten."
+    ],
+    "criteria": [
+      "3 minuten stilte gehouden.",
+      "Voor de maaltijd.",
+      "Bewust aanwezig geweest."
+    ]
+  },
+  {
+    "id": 101,
+    "img_location": "assets/images/food_memory.jpg",
+    "title": "Verhaal-Maaltijd",
+    "description": "Koppel elk gerecht aan een herinnering en schrijf die op.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 251,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 82,
+    "expectations": [
+      "Smaak roept sterke herinneringen op.",
+      "Sommige herinneringen verrassen je.",
+      "Je verbindt eten met je levensverhaal."
+    ],
+    "tips": [
+      "Schrijf direct na de eerste hap.",
+      "Wees eerlijk over de herinnering.",
+      "3 zinnen per gerecht."
+    ],
+    "criteria": [
+      "Per gerecht een herinnering.",
+      "Direkt na proeven.",
+      "Eerlijk en specifiek."
+    ]
+  },
+  {
+    "id": 102,
+    "img_location": "assets/images/eyes_closed_eat.jpg",
+    "title": "Diner-In-Het-Donker",
+    "description": "Eet één gang met gesloten ogen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 85,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 147,
+    "expectations": [
+      "Smaak wordt intenser zonder zicht.",
+      "Je eet langzamer.",
+      "Je neemt andere texturen waar."
+    ],
+    "tips": [
+      "Sluit je ogen voor de eerste hap.",
+      "Probeer te blijven proeven.",
+      "Houd je ogen dicht voor de hele gang."
+    ],
+    "criteria": [
+      "Hele gang met gesloten ogen.",
+      "Echt gesloten, niet geknipoogd.",
+      "Smaak actief ervaren."
+    ]
+  },
+  {
+    "id": 103,
+    "img_location": "assets/images/swap_dish.jpg",
+    "title": "Ruil-Gerecht",
+    "description": "Wissel je gerecht met je tafelgenoot halverwege de maaltijd.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 502,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 85,
+    "expectations": [
+      "Je proeft iets onverwachts.",
+      "De andere helft is soms beter.",
+      "Je ontdekt nieuwe voorkeuren."
+    ],
+    "tips": [
+      "Spreek af voor de maaltijd.",
+      "Wissel precies halverwege.",
+      "Bespreek het verschil."
+    ],
+    "criteria": [
+      "Gerecht geruild.",
+      "Halverwege gedaan.",
+      "Verschil besproken."
+    ]
+  },
+  {
+    "id": 104,
+    "img_location": "assets/images/first_booking.jpg",
+    "title": "Vroegst-Mogelijke-Reservering",
+    "description": "Reserveer voor de allereeerste tijdslot van het restaurant.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 550,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 14,
+    "expectations": [
+      "Het restaurant is rustig en fris.",
+      "Je bouwt een ander soort relatie met het personeel.",
+      "De sfeer is uniek en stil."
+    ],
+    "tips": [
+      "Reserveer vroeg van tevoren.",
+      "Merk het verschil op.",
+      "Bedank het personeel voor hun voorbereiding."
+    ],
+    "criteria": [
+      "Eerste tijdslot gereserveerd.",
+      "Sfeer geobserveerd.",
+      "Personeel bedankt."
+    ]
+  },
+  {
+    "id": 105,
+    "img_location": "assets/images/no_menu.jpg",
+    "title": "Diner-Zonder-Menu",
+    "description": "Ga naar het restaurant zonder het menu te lezen en vraag de ober om compleet te verrassen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 133,
+    "difficulty": "Moeilijk",
+    "category": "Ervaring",
+    "comfyPoints": 273,
+    "expectations": [
+      "Je verliest controle.",
+      "De verrassing kan groot zijn.",
+      "Je vertrouwen wordt getest."
+    ],
+    "tips": [
+      "Geef eventuele allergieën aan.",
+      "Accepteer elke keuze.",
+      "Eet met een open mind."
+    ],
+    "criteria": [
+      "Menu niet gelezen.",
+      "Ober keuze gegeven.",
+      "Alles gegeten."
+    ]
+  },
+  {
+    "id": 106,
+    "img_location": "assets/images/restaurant_history.jpg",
+    "title": "Restaurantgeschiedenis",
+    "description": "Vraag naar de oprichter van het restaurant en diens verhaal.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 491,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 91,
+    "expectations": [
+      "Elke zaak heeft een persoonlijk verhaal.",
+      "Het schept een diepere band.",
+      "Het personeel is soms verrast door de vraag."
+    ],
+    "tips": [
+      "Vraag op een rustig moment.",
+      "Toon oprechte interesse.",
+      "Vraag door bij interessante details."
+    ],
+    "criteria": [
+      "Verhaal gevraagd.",
+      "Geluisterd.",
+      "Bedankt."
+    ]
+  },
+  {
+    "id": 107,
+    "img_location": "assets/images/taste_story.jpg",
+    "title": "Smaakverhaal",
+    "description": "Schrijf een kort verhaal geïnspireerd door de smaken van je maaltijd.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 174,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 145,
+    "expectations": [
+      "De smaken worden karakters of plaatsen.",
+      "Je schrijft zonder nadenken.",
+      "Het resultaat verrast."
+    ],
+    "tips": [
+      "Laat de smaken vrij associëren.",
+      "Schrijf minimaal 5 zinnen.",
+      "Lees het achteraf."
+    ],
+    "criteria": [
+      "Verhaal van 5 zinnen.",
+      "Geïnspireerd door smaken.",
+      "Vrij geschreven."
+    ]
+  },
+  {
+    "id": 108,
+    "img_location": "assets/images/menu_remix.jpg",
+    "title": "Menu-Remix",
+    "description": "Hernoem elk gerecht op het menu in iets poets of grappigs.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 545,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 26,
+    "expectations": [
+      "Het stimuleert creatief denken.",
+      "Het menu wordt een kunstwerk.",
+      "De barista kan het leuk vinden."
+    ],
+    "tips": [
+      "Schrijf voor elk gerecht een nieuwe naam.",
+      "Geef ze een thema.",
+      "Deel het eventueel met de ober."
+    ],
+    "criteria": [
+      "Elk gerecht hernoemd.",
+      "Thema aanwezig.",
+      "Eventueel gedeeld."
+    ]
+  },
+  {
+    "id": 109,
+    "img_location": "assets/images/restaurant_slogan.jpg",
+    "title": "Restaurant-Slogan",
+    "description": "Bedenk een nieuw reclameslogan voor het restaurant en schrijf het op een servet.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 438,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 48,
+    "expectations": [
+      "Je denkt als een marketeer.",
+      "De slogan onthult wat jij in de zaak waardeert.",
+      "Het kan grappig of inspirerend zijn."
+    ],
+    "tips": [
+      "Schrijf drie opties.",
+      "Kies de beste.",
+      "Geef het eventueel aan de ober."
+    ],
+    "criteria": [
+      "3 slogans bedacht.",
+      "Beste gekozen.",
+      "Eventueel doorgegeven."
+    ]
+  },
+  {
+    "id": 110,
+    "img_location": "assets/images/waiter_bio.jpg",
+    "title": "Ober-Biografie",
+    "description": "Stel je een volledige biografie voor van de ober die je bedient.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 557,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 23,
+    "expectations": [
+      "Je observeert de ober intensiever.",
+      "De biografie reflecteert ook je eigen projecties.",
+      "Het is een leuke creatieve minuut."
+    ],
+    "tips": [
+      "Observeer houding, manier van praten en keuzes.",
+      "Schrijf een bio van 5 zinnen.",
+      "Vergelijk met de echte persoon indien mogelijk."
+    ],
+    "criteria": [
+      "Bio van 5 zinnen.",
+      "Gebaseerd op observatie.",
+      "Eerlijk en creatief."
+    ]
+  },
+  {
+    "id": 111,
+    "img_location": "assets/images/star_review.jpg",
+    "title": "Driesterren-Review",
+    "description": "Schrijf een overdreven drie-sterrenrecensie van je maaltijd in formele taal.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 324,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 100,
+    "expectations": [
+      "Formele restauranttaal is een kunstvorm.",
+      "Je let anders op details.",
+      "De humor zit in de overdrijving."
+    ],
+    "tips": [
+      "Gebruik termen als 'parfum', 'afdronk', 'terroir'.",
+      "Wees theatraal.",
+      "Geef 3 sterren voor iets absurds."
+    ],
+    "criteria": [
+      "Recensie volledig geschreven.",
+      "Formele taal gebruikt.",
+      "Humoristische overdrijving aanwezig."
+    ]
+  },
+  {
+    "id": 112,
+    "img_location": "assets/images/pay_forward.jpg",
+    "title": "Koffie-Gifter",
+    "description": "Koop een koffie voor de persoon achter je in de rij zonder hen te kennen.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 387,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 126,
+    "expectations": [
+      "De verrassing is groot.",
+      "Het geeft een enorme voldoening.",
+      "De cyclus kan doorgaan."
+    ],
+    "tips": [
+      "Zeg het rustig aan de barista.",
+      "Wacht niet op een reactie.",
+      "Vertrek voor ze weten wie het deed."
+    ],
+    "criteria": [
+      "Koffie betaald voor ander.",
+      "Anoniem vertrokken.",
+      "Geen reactie afgewacht."
+    ]
+  },
+  {
+    "id": 113,
+    "img_location": "assets/images/barista_day.jpg",
+    "title": "Barista-Dag",
+    "description": "Vraag de barista hoe hun dag verloopt en luister echt.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 534,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 38,
+    "expectations": [
+      "Barista's worden zelden echt gevraagd.",
+      "Ze waarderen de aandacht.",
+      "Het gesprek kan verrassend diep zijn."
+    ],
+    "tips": [
+      "Vraag in een rustig moment.",
+      "Luister actief.",
+      "Ga niet weg tijdens het antwoord."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Echt geluisterd.",
+      "Niet weggegaan tijdens antwoord."
+    ]
+  },
+  {
+    "id": 114,
+    "img_location": "assets/images/barista_compliment.jpg",
+    "title": "Koffie-Compliment",
+    "description": "Geef de barista een specifiek compliment over hun vakmanschap.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 128,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 38,
+    "expectations": [
+      "Barista's zijn trots op hun vak.",
+      "Specifieke complimenten zijn zeldzaam.",
+      "Je bouwt een persoonlijk contact."
+    ],
+    "tips": [
+      "Wees specifiek: smaak, presentatie of service.",
+      "Zeg het oprecht.",
+      "Kijk hen aan."
+    ],
+    "criteria": [
+      "Compliment gegeven.",
+      "Specifiek.",
+      "Oprecht en met oogcontact."
+    ]
+  },
+  {
+    "id": 115,
+    "img_location": "assets/images/cafe_network.jpg",
+    "title": "Café-Netwerk",
+    "description": "Maak contact met één persoon die je nooit in het dagelijks leven zou spreken.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 235,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 206,
+    "expectations": [
+      "Je stap over een sociale grens heen.",
+      "De ander kan heel interessant zijn.",
+      "De drempel is groter dan de realiteit."
+    ],
+    "tips": [
+      "Benader iemand die anders is dan jij.",
+      "Begin met een observatie over de omgeving.",
+      "Wees oprecht nieuwsgierig."
+    ],
+    "criteria": [
+      "Contact gemaakt.",
+      "Minimaal 3 minuten gesproken.",
+      "Oprechte nieuwsgierigheid getoond."
+    ]
+  },
+  {
+    "id": 116,
+    "img_location": "assets/images/coffee_quiz.jpg",
+    "title": "Koffie-Quizmaster",
+    "description": "Stel de barista 3 kennisvragen over koffie die je van tevoren bedacht hebt.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 351,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 83,
+    "expectations": [
+      "Barista's zijn expert.",
+      "Het is een leuke manier van contact.",
+      "Je leert ook iets."
+    ],
+    "tips": [
+      "Bedenk echte vragen van tevoren.",
+      "Wees geïnteresseerd in de antwoorden.",
+      "Deel ook jouw kennis."
+    ],
+    "criteria": [
+      "3 vragen gesteld.",
+      "Antwoorden ontvangen.",
+      "Kennis gedeeld."
+    ]
+  },
+  {
+    "id": 117,
+    "img_location": "assets/images/loud_coffee.jpg",
+    "title": "Luide-Koffiebestelling",
+    "description": "Bestel je koffie 3 keer luider dan normaal.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 572,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 77,
+    "expectations": [
+      "Iedereen hoort het.",
+      "De barista reageert verbaasd.",
+      "Je voelt je ongemakkelijk maar ook vrij."
+    ],
+    "tips": [
+      "Bouw op: normaal, half luider, daarna echt luid.",
+      "Glimlach erbij.",
+      "Wees vriendelijk."
+    ],
+    "criteria": [
+      "3 keer besteld in oplopende volumes.",
+      "Iedereen kon het horen.",
+      "Vriendelijk gebleven."
+    ]
+  },
+  {
+    "id": 118,
+    "img_location": "assets/images/trash_ball.jpg",
+    "title": "Koffiebal",
+    "description": "Gooi een prop van een servet in de prullenbak als een basketballer en vier het uitbundig.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 230,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 104,
+    "expectations": [
+      "Mensen kijken op.",
+      "De viering is het beste deel.",
+      "Het is een moment van pure speelsheid."
+    ],
+    "tips": [
+      "Gooi van een afstand.",
+      "Vier elk geval.",
+      "Doe het bij het eerste schot of na 3 pogingen."
+    ],
+    "criteria": [
+      "Prop gegooid.",
+      "Uitbundig gevierd.",
+      "Op een zichtbare plek."
+    ]
+  },
+  {
+    "id": 119,
+    "img_location": "assets/images/coffee_ceremony.jpg",
+    "title": "Koffie-Ceremonie",
+    "description": "Maak een mini-ceremonie van het opnemen en proeven van je koffie.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 77,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 175,
+    "expectations": [
+      "Mensen kijken naar je ritueel.",
+      "Je voelt je theater.",
+      "Maar ook heel aanwezig."
+    ],
+    "tips": [
+      "Raak het kopje eerst met twee handen aan.",
+      "Ruik voor je proeft.",
+      "Maak een kleine buiging."
+    ],
+    "criteria": [
+      "Ceremonie uitgevoerd.",
+      "Meerdere rituele stappen.",
+      "In het bijzijn van anderen."
+    ]
+  },
+  {
+    "id": 120,
+    "img_location": "assets/images/coffee_parade.jpg",
+    "title": "Koffie-Parade",
+    "description": "Loop met je koffie in de hand een keer langzaam door het hele café.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 239,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 82,
+    "expectations": [
+      "Je voelt je opvallend.",
+      "Mensen kijken je aan.",
+      "Het is een kleine maar merkwaardige actie."
+    ],
+    "tips": [
+      "Loop langzaam en doelbewust.",
+      "Kijk vriendelijk om je heen.",
+      "Keer terug naar je eigen plek."
+    ],
+    "criteria": [
+      "Ronde door het café.",
+      "Langzaam en bewust.",
+      "Teruggekeerd naar eigen plek."
+    ]
+  },
+  {
+    "id": 121,
+    "img_location": "assets/images/anonymous_card.jpg",
+    "title": "Anonieme-Kaart",
+    "description": "Laat een anoniem bemoedigend kaartje achter op een willekeurig tafeltje.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 37,
+    "difficulty": "Makkelijk",
+    "category": "Publiek",
+    "comfyPoints": 14,
+    "expectations": [
+      "Een klein gebaar met grote impact.",
+      "Je weet nooit wie het vindt.",
+      "Het kiezen van de boodschap is het mooiste."
+    ],
+    "tips": [
+      "Schrijf iets oprechts en positiefs.",
+      "Leg het op een tafel als ze weg zijn.",
+      "Kijk niet wie het vindt."
+    ],
+    "criteria": [
+      "Kaartje geschreven.",
+      "Achtergelaten.",
+      "Niet gewacht op reactie."
+    ]
+  },
+  {
+    "id": 122,
+    "img_location": "assets/images/cafe_walk.jpg",
+    "title": "Café-Wandeling",
+    "description": "Loop elk kwartier één ronde door het café in plaats van te blijven zitten.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 77,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 31,
+    "expectations": [
+      "Zitten is te lang.",
+      "Lopen activeert je lichaam.",
+      "Je observeert het café vanuit beweging."
+    ],
+    "tips": [
+      "Stel een timer in op 15 minuten.",
+      "Loop rustig en bewust.",
+      "Observeer iets nieuws elke ronde."
+    ],
+    "criteria": [
+      "Minimaal 3 rondes gelopen.",
+      "Elke 15 minuten.",
+      "Iets nieuws opgemerkt."
+    ]
+  },
+  {
+    "id": 123,
+    "img_location": "assets/images/pre_coffee_stretch.jpg",
+    "title": "Koffie-Stretch",
+    "description": "Doe voor je koffiebezoek 5 minuten stretchoefeningen buiten.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 248,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 42,
+    "expectations": [
+      "Je lichaam bedankt je.",
+      "Je komt ontspannen het café in.",
+      "Het combineert beweging met café-ritual."
+    ],
+    "tips": [
+      "Begin met nek en schouders.",
+      "Ga naar beneden.",
+      "Adem diep bij elke rek."
+    ],
+    "criteria": [
+      "5 minuten gerekt.",
+      "Buiten gedaan.",
+      "Voor binnenkomst."
+    ]
+  },
+  {
+    "id": 124,
+    "img_location": "assets/images/one_leg_queue.jpg",
+    "title": "Eén-Voet-Balans",
+    "description": "Sta tijdens het wachten op je koffie op één been.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 502,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 27,
+    "expectations": [
+      "Het wachten gaat sneller.",
+      "Je balansspieren worden geactiveerd.",
+      "Mensen kijken maar lachen."
+    ],
+    "tips": [
+      "Houd het been stil.",
+      "Wissel na 30 seconden.",
+      "Doe het bewust."
+    ],
+    "criteria": [
+      "Op één been gestaan.",
+      "Gewisseld na 30 seconden.",
+      "Tijdens het wachten."
+    ]
+  },
+  {
+    "id": 125,
+    "img_location": "assets/images/stair_challenge.jpg",
+    "title": "Trap-Uitdaging",
+    "description": "Loop de trap van het café 10 keer op en neer als er een trap is.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 557,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 102,
+    "expectations": [
+      "Je hartslag stijgt.",
+      "10 keer is vermoeiender dan gedacht.",
+      "Het is een effectieve workout."
+    ],
+    "tips": [
+      "Loop op een normaal tempo.",
+      "Tel de ronden.",
+      "Rust na afloop."
+    ],
+    "criteria": [
+      "10 keer op en neer.",
+      "Geteld.",
+      "Daarna gerust."
+    ]
+  },
+  {
+    "id": 126,
+    "img_location": "assets/images/arm_circles.jpg",
+    "title": "Koffie-Armspiegel",
+    "description": "Doe 20 kleine cirkelbeweging met je armen voor je eerste slok koffie.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 589,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 18,
+    "expectations": [
+      "Je schouders worden losser.",
+      "Het is een mini-opwarming.",
+      "Je bestelling smaakt beter."
+    ],
+    "tips": [
+      "Maak kleine cirkels voorwaarts.",
+      "Dan achterwaarts.",
+      "Blijf ontspannen."
+    ],
+    "criteria": [
+      "20 cirkels per richting.",
+      "Voor eerste slok.",
+      "Ontspannen gedaan."
+    ]
+  },
+  {
+    "id": 127,
+    "img_location": "assets/images/coffee_ritual.jpg",
+    "title": "Koffie-Ritueel",
+    "description": "Creëer een persoonlijk koffieritueel van 3 stappen en beschrijf het.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 489,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 46,
+    "expectations": [
+      "Rituelen geven structuur aan het leven.",
+      "Het kiezen van 3 stappen is al waardevol.",
+      "Je koffie krijgt een andere betekenis."
+    ],
+    "tips": [
+      "Kies 3 specifieke acties.",
+      "Voer ze bewust uit.",
+      "Schrijf ze op."
+    ],
+    "criteria": [
+      "3 stappen bedacht.",
+      "Uitgevoerd.",
+      "Opgeschreven."
+    ]
+  },
+  {
+    "id": 128,
+    "img_location": "assets/images/coffee_intention.jpg",
+    "title": "Koffie-Intentie",
+    "description": "Stel voor je koffie drinkt een intentie voor de dag in.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 489,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 25,
+    "expectations": [
+      "Intenties geven richting.",
+      "Het is een moment van stilte.",
+      "Je dag begint bewuster."
+    ],
+    "tips": [
+      "Schrijf de intentie op.",
+      "Houd hem concreet.",
+      "Denk er aan het einde van de dag aan terug."
+    ],
+    "criteria": [
+      "Intentie gesteld.",
+      "Opgeschreven.",
+      "Bewust gecheckt."
+    ]
+  },
+  {
+    "id": 129,
+    "img_location": "assets/images/cafe_mindfulness.jpg",
+    "title": "Café-Mindfulness",
+    "description": "Observeer 5 minuten lang alles in het café bewust: geluiden, geuren, licht.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 199,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 127,
+    "expectations": [
+      "Je ontdekt hoeveel je normaal mist.",
+      "De omgeving rijker dan je denkt.",
+      "Je hoofd wordt rustig."
+    ],
+    "tips": [
+      "Schrijf op wat je observeert.",
+      "Gebruik alle zintuigen.",
+      "Geen oordeel over wat je ziet."
+    ],
+    "criteria": [
+      "5 minuten observatie.",
+      "Alle zintuigen gebruikt.",
+      "Opgeschreven."
+    ]
+  },
+  {
+    "id": 130,
+    "img_location": "assets/images/coffee_review.jpg",
+    "title": "Koffie-Terugblik",
+    "description": "Schrijf aan het einde van je bezoek de 3 beste dingen op die je vandaag hebt meegemaakt.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 104,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 16,
+    "expectations": [
+      "Het sluit de dag bewust af.",
+      "Je zoekt actief het goede.",
+      "De koffie smaakt beter met reflectie."
+    ],
+    "tips": [
+      "Schrijf ze in het café.",
+      "Wees specifiek.",
+      "Lees ze nog één keer."
+    ],
+    "criteria": [
+      "3 dingen opgeschreven.",
+      "Specifiek.",
+      "Nog eens gelezen."
+    ]
+  },
+  {
+    "id": 131,
+    "img_location": "assets/images/habit_break.jpg",
+    "title": "Koffie-Breuk",
+    "description": "Besluit één gewoonte te doorbreken vandaag en schrijf op hoe.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 367,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 130,
+    "expectations": [
+      "Gewoontes doorbreken begint met bewustzijn.",
+      "Eén kleine doorbraak is genoeg.",
+      "Je ontdekt je automatische piloot."
+    ],
+    "tips": [
+      "Kies een kleine, haalbare gewoonte.",
+      "Schrijf een concreet plan.",
+      "Zet een reminder."
+    ],
+    "criteria": [
+      "Gewoonte gekozen.",
+      "Plan geschreven.",
+      "Reminder gezet."
+    ]
+  },
+  {
+    "id": 132,
+    "img_location": "assets/images/coffee_compare.jpg",
+    "title": "Koffie-Vergelijking",
+    "description": "Bestel twee verschillende koffiesoorten en doe een professionele vergelijking.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 425,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 129,
+    "expectations": [
+      "Je ontdekt subtiele verschillen.",
+      "Het proefen wordt bewuster.",
+      "Je smaakpalet ontwikkelt zich."
+    ],
+    "tips": [
+      "Proef ze op gelijke temperatuur.",
+      "Noteer geur, smaak en afdronk.",
+      "Kies een favoriet en verklaar waarom."
+    ],
+    "criteria": [
+      "2 soorten geproefd.",
+      "Vergelijking gemaakt.",
+      "Favoriet verklaard."
+    ]
+  },
+  {
+    "id": 133,
+    "img_location": "assets/images/coffee_blind.jpg",
+    "title": "Koffie-Blind",
+    "description": "Proef je koffie blind (ogen dicht) en raad de bereidingswijze.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 60,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 134,
+    "expectations": [
+      "Je smaak wordt scherper zonder visuele hints.",
+      "Het raden is moeilijker dan gedacht.",
+      "Je leert meer over koffie."
+    ],
+    "tips": [
+      "Sluit je ogen voor de eerste slok.",
+      "Probeer te onderscheiden.",
+      "Vraag daarna aan de barista."
+    ],
+    "criteria": [
+      "Blind geproefd.",
+      "Geraden.",
+      "Antwoord gevraagd."
+    ]
+  },
+  {
+    "id": 134,
+    "img_location": "assets/images/opening_coffee.jpg",
+    "title": "Ochtend-Koffie-Ritual",
+    "description": "Kom als eerste klant bij opening en ervaar het rustiger café.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 67,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 87,
+    "expectations": [
+      "De sfeer is heel anders.",
+      "Het personeel is frisch.",
+      "Je hebt het café bijna voor jezelf."
+    ],
+    "tips": [
+      "Check de openingstijden.",
+      "Neem de tijd.",
+      "Observeer het openen."
+    ],
+    "criteria": [
+      "Bij opening aanwezig.",
+      "Sfeer geobserveerd.",
+      "Rustige ervaring gehad."
+    ]
+  },
+  {
+    "id": 135,
+    "img_location": "assets/images/coffee_pause.jpg",
+    "title": "Koffie-Pauze-Dag",
+    "description": "Maak van je koffiebezoek een bewuste pauze van alle werk en stress.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 352,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 35,
+    "expectations": [
+      "De pauze voelt heilig.",
+      "Je laadt echt op.",
+      "Een bewuste pauze is anders dan een onbewuste."
+    ],
+    "tips": [
+      "Leg alle werk neer.",
+      "Geen e-mails of berichten.",
+      "Wees volledig aanwezig."
+    ],
+    "criteria": [
+      "Volledig pauze genomen.",
+      "Geen werk gedaan.",
+      "Aanwezig geweest."
+    ]
+  },
+  {
+    "id": 136,
+    "img_location": "assets/images/coffee_dialogue.jpg",
+    "title": "Koffie-Dialoog",
+    "description": "Voer een gesprek met jezelf in je notitieboekje in de vorm van vraag en antwoord.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 259,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 88,
+    "expectations": [
+      "Je ontdekt wat je echt denkt.",
+      "Het voelt vreemd maar onthullend.",
+      "De vragen zijn het moeilijkste deel."
+    ],
+    "tips": [
+      "Stel jezelf echte vragen.",
+      "Beantwoord eerlijk.",
+      "Minimaal 5 rondjes."
+    ],
+    "criteria": [
+      "5 vraag-antwoord rondes.",
+      "Eerlijk beantwoord.",
+      "In notitieboekje."
+    ]
+  },
+  {
+    "id": 137,
+    "img_location": "assets/images/guest_portrait.jpg",
+    "title": "Koffie-Portret",
+    "description": "Teken een portret van een willekeurige cafégast op een servet.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 199,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 99,
+    "expectations": [
+      "Je observeert scherper.",
+      "Tekenen op een servet is een klassieker.",
+      "Het hoeft niet mooi te zijn."
+    ],
+    "tips": [
+      "Focus op karakteristieke kenmerken.",
+      "Gebruik wat je hebt (pen, potlood).",
+      "Vraag toestemming of bewaar anoniem."
+    ],
+    "criteria": [
+      "Portret getekend.",
+      "Op servet.",
+      "Herkenbaat persoon."
+    ]
+  },
+  {
+    "id": 138,
+    "img_location": "assets/images/coffee_song.jpg",
+    "title": "Koffie-Lied",
+    "description": "Schrijf een refrein van een lied over de koffie die je drinkt.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 464,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 44,
+    "expectations": [
+      "Een refrein schrijven is snel.",
+      "Koffie biedt meer rijmopties dan je denkt.",
+      "Het is een leuk creatief momentje."
+    ],
+    "tips": [
+      "Begin met hoe de koffie voelt.",
+      "Rijm minimaal 2 regels.",
+      "Zing het zachtjes voor jezelf."
+    ],
+    "criteria": [
+      "Refrein geschreven.",
+      "Minstens 2 rijmende regels.",
+      "Zachtjes gezongen."
+    ]
+  },
+  {
+    "id": 139,
+    "img_location": "assets/images/story_chain.jpg",
+    "title": "Café-Verhaal-Ketting",
+    "description": "Begin een verhaal met één zin en voeg elke 5 minuten een zin toe.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 437,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 92,
+    "expectations": [
+      "Het verhaal gaat onverwachte kanten op.",
+      "De tijdsdruk is interessant.",
+      "Je kijkt uit naar de volgende zin."
+    ],
+    "tips": [
+      "Begin met een intrigerende eerste zin.",
+      "Voeg elke 5 minuten een zin toe.",
+      "Lees het verhaal als je vertrekt."
+    ],
+    "criteria": [
+      "Minimaal 5 zinnen.",
+      "Elke 5 minuten een nieuwe.",
+      "Afgelezen."
+    ]
+  },
+  {
+    "id": 140,
+    "img_location": "assets/images/servet_mandala.jpg",
+    "title": "Koffie-Mandala",
+    "description": "Teken een mandala op een servet met een pen.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 290,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 21,
+    "expectations": [
+      "Het is meditatief.",
+      "Een mandala heeft zijn eigen logica.",
+      "Het resultaat is altijd uniek."
+    ],
+    "tips": [
+      "Begin vanuit het midden.",
+      "Werk in ringen naar buiten.",
+      "Herhaal patronen."
+    ],
+    "criteria": [
+      "Mandala getekend.",
+      "Op servet.",
+      "Symmetrisch patroon."
+    ]
+  },
+  {
+    "id": 141,
+    "img_location": "assets/images/coffee_words.jpg",
+    "title": "Koffie-Woord-Associatie",
+    "description": "Schrijf 30 woorden die opkomen als je aan 'koffie' denkt.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 260,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 39,
+    "expectations": [
+      "Je onderbewuste wordt aangesproken.",
+      "Sommige woorden verrassen je.",
+      "Het geeft een woordenschat van associaties."
+    ],
+    "tips": [
+      "Schrijf snel en zonder nadenken.",
+      "Geen herhaling.",
+      "Lees daarna terug."
+    ],
+    "criteria": [
+      "30 woorden geschreven.",
+      "Geen herhaling.",
+      "Gelezen."
+    ]
+  },
+  {
+    "id": 142,
+    "img_location": "assets/images/volunteer_moment.jpg",
+    "title": "Vrijwilliger-Moment",
+    "description": "Help iemand spontaan met een klusje in het park zonder te worden gevraagd.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 458,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 14,
+    "expectations": [
+      "Je neemt initiatief.",
+      "Mensen zijn soms verrast.",
+      "Het geeft een goed gevoel."
+    ],
+    "tips": [
+      "Kies een duidelijke hulpvraag.",
+      "Bied aan zonder opdringerig te zijn.",
+      "Doe het met een glimlach."
+    ],
+    "criteria": [
+      "Hulp aangeboden.",
+      "Daadwerkelijk geholpen.",
+      "Vriendelijk gebleven."
+    ]
+  },
+  {
+    "id": 143,
+    "img_location": "assets/images/joke_teller.jpg",
+    "title": "Grap-Verteller",
+    "description": "Vertel een mop aan een vreemde in het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 105,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 145,
+    "expectations": [
+      "Je moet de mop écht goed kennen.",
+      "Reacties zijn divers en leuk.",
+      "Het is een icebreaker."
+    ],
+    "tips": [
+      "Kies een vriendelijke, onschuldige mop.",
+      "Vertel hem met zelfvertrouwen.",
+      "Lach mee, ook als het flopt."
+    ],
+    "criteria": [
+      "Mop verteld.",
+      "Aan een vreemde.",
+      "Reactie afgewacht."
+    ]
+  },
+  {
+    "id": 144,
+    "img_location": "assets/images/encouragement_cards.jpg",
+    "title": "Kaart-Uitdeler",
+    "description": "Maak kleine bemoedigingskaartjes en deel ze uit aan parkbezoekers.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 558,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 81,
+    "expectations": [
+      "De reacties zijn hartverwarmend.",
+      "Je hebt iets tastbaars te geven.",
+      "Voorbereiding maakt het makkelijker."
+    ],
+    "tips": [
+      "Maak de kaartjes van tevoren.",
+      "Kies mensen die er behoefte aan lijken te hebben.",
+      "Wees kort en oprecht."
+    ],
+    "criteria": [
+      "Minimaal 5 kaartjes uitgedeeld.",
+      "Zelfgemaakt.",
+      "Positieve reacties ontvangen."
+    ]
+  },
+  {
+    "id": 145,
+    "img_location": "assets/images/bench_gathering.jpg",
+    "title": "Bankje-Bijeenkomst",
+    "description": "Organiseer een spontaan groepsgesprek op een bankje met vreemden.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 20,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 282,
+    "expectations": [
+      "Het is moeilijk om mensen samen te brengen.",
+      "Maar als het lukt is het bijzonder.",
+      "Je wordt tijdelijk een soort facilitator."
+    ],
+    "tips": [
+      "Begin met één persoon.",
+      "Nodig de volgende uit.",
+      "Stel een gemeenschappelijk onderwerp voor."
+    ],
+    "criteria": [
+      "Minimaal 3 mensen verzameld.",
+      "Gesprek gestart.",
+      "Vriendelijke sfeer gecreëerd."
+    ]
+  },
+  {
+    "id": 146,
+    "img_location": "assets/images/hello_world.jpg",
+    "title": "Hallo-Wereld",
+    "description": "Zeg 'hallo' in 5 verschillende talen aan 5 verschillende mensen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 247,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 15,
+    "expectations": [
+      "Het is een makkelijke manier van contact.",
+      "Mensen glimlachen bij een vreemde taal.",
+      "Je oefent tegelijk je talenkennis."
+    ],
+    "tips": [
+      "Kies 5 talen van tevoren.",
+      "Spreek ze correct uit.",
+      "Gebruik de taal passend bij de persoon indien mogelijk."
+    ],
+    "criteria": [
+      "5 talen gebruikt.",
+      "5 mensen begroet.",
+      "Correct uitgesproken."
+    ]
+  },
+  {
+    "id": 147,
+    "img_location": "assets/images/joy_dance.jpg",
+    "title": "Vreugde-Dans",
+    "description": "Dans 30 seconden van pure vreugde op een drukke plek.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 421,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 196,
+    "expectations": [
+      "Je voelt je ontzettend zichtbaar.",
+      "Maar daarna gevoel van bevrijding.",
+      "Sommigen dansen mee."
+    ],
+    "tips": [
+      "Kies een innerlijk liedje.",
+      "Dans vol overtuiging.",
+      "Stop pas na 30 seconden."
+    ],
+    "criteria": [
+      "30 seconden gedanst.",
+      "Op een drukke plek.",
+      "Niet gestopt door reacties."
+    ]
+  },
+  {
+    "id": 148,
+    "img_location": "assets/images/walking_read.jpg",
+    "title": "Wandelend-Boek",
+    "description": "Lees hardop voor uit een boek terwijl je door het park loopt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 497,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 237,
+    "expectations": [
+      "Je trekt aandacht.",
+      "Het klinkt theatraal.",
+      "Maar het is een unieke ervaring."
+    ],
+    "tips": [
+      "Kies een boeiend stuk.",
+      "Lees luid genoeg.",
+      "Loop normaal door."
+    ],
+    "criteria": [
+      "2 minuten hardop voorgelezen.",
+      "Lopend gedaan.",
+      "Mensen gepasseerd."
+    ]
+  },
+  {
+    "id": 149,
+    "img_location": "assets/images/park_trick.jpg",
+    "title": "Parkprestatie",
+    "description": "Doe een klein kunstje (balanceer iets, maak een salto etc.) op een druk pad.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 415,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 202,
+    "expectations": [
+      "Je voelt je kwetsbaar.",
+      "Mensen kunnen reageren.",
+      "Het is een overwinning op je ego."
+    ],
+    "tips": [
+      "Kies een veilig kunstje.",
+      "Doe het vol zelfvertrouwen.",
+      "Accepteer elke reactie."
+    ],
+    "criteria": [
+      "Kunstje uitgevoerd.",
+      "Op een drukke plek.",
+      "Veilig gedaan."
+    ]
+  },
+  {
+    "id": 150,
+    "img_location": "assets/images/sign_parade.jpg",
+    "title": "Parkparade",
+    "description": "Loop met een zelfgemaakt bordje ('Hoi! Ik doe een uitdaging') door het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 65,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 290,
+    "expectations": [
+      "Mensen lezen het en reageren.",
+      "Je bent zichtbaar maar hebt een uitleg.",
+      "Het is grappig en interessant."
+    ],
+    "tips": [
+      "Maak het bordje van tevoren.",
+      "Houd het goed zichtbaar.",
+      "Reageer vriendelijk op reacties."
+    ],
+    "criteria": [
+      "Bordje gemaakt.",
+      "Minstens 10 minuten rondgelopen.",
+      "Vriendelijk op reacties ingegaan."
+    ]
+  },
+  {
+    "id": 151,
+    "img_location": "assets/images/solo_ovation.jpg",
+    "title": "Stil-Klappen",
+    "description": "Geef jezelf een stilstaande ovatie na het volbrengen van een taak in het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 393,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 96,
+    "expectations": [
+      "Het voelt gek maar is krachtig.",
+      "Je erkent je eigen prestatie.",
+      "Mensen kijken verbaasd."
+    ],
+    "tips": [
+      "Sta op.",
+      "Klap hard.",
+      "Buig daarna."
+    ],
+    "criteria": [
+      "Opgestaan en geklat.",
+      "Op een zichtbare plek.",
+      "Volledig uitgevoerd."
+    ]
+  },
+  {
+    "id": 152,
+    "img_location": "assets/images/walking_meditation.jpg",
+    "title": "Wandel-Meditatie",
+    "description": "Loop 20 minuten bewust terwijl je je richt op elke stap.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 404,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 10,
+    "expectations": [
+      "Je looptempo vertraagt.",
+      "Je wordt bewuster van je lichaam.",
+      "De omgeving valt meer op."
+    ],
+    "tips": [
+      "Voel elke stap bewust.",
+      "Adem synchroon met je passen.",
+      "Geen muziek of podcast."
+    ],
+    "criteria": [
+      "20 minuten gelopen.",
+      "Bewust elke stap gevoeld.",
+      "Geen afleiding."
+    ]
+  },
+  {
+    "id": 153,
+    "img_location": "assets/images/park_circuit.jpg",
+    "title": "Park-Circuit",
+    "description": "Combineer lopen, springen, en buigen in een eigen circuit van 10 minuten.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 470,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 108,
+    "expectations": [
+      "Je traint je hele lichaam.",
+      "De variatie houdt het leuk.",
+      "Je bent eerder moe dan verwacht."
+    ],
+    "tips": [
+      "Plan het circuit van tevoren.",
+      "Minimaal 3 verschillende oefeningen.",
+      "Doe het 2 keer."
+    ],
+    "criteria": [
+      "10 minuten gedaan.",
+      "3 oefeningen gecombineerd.",
+      "2 rondes gedaan."
+    ]
+  },
+  {
+    "id": 154,
+    "img_location": "assets/images/hop.jpg",
+    "title": "Hinkelen",
+    "description": "Hink 50 meter op één been door het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 438,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 28,
+    "expectations": [
+      "Je beenspieren worden getest.",
+      "Het is kinderlijk en leuk.",
+      "50 meter is meer dan je denkt."
+    ],
+    "tips": [
+      "Wissel van been halverwege.",
+      "Houd je balans.",
+      "Land zacht."
+    ],
+    "criteria": [
+      "50 meter gehopt.",
+      "Beide benen gebruikt.",
+      "Balans aangehouden."
+    ]
+  },
+  {
+    "id": 155,
+    "img_location": "assets/images/branch_stretch.jpg",
+    "title": "Hangmat-Rek",
+    "description": "Rek je uit aan een lage tak gedurende 1 minuut.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 503,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 146,
+    "expectations": [
+      "Je rug en schouders strekken.",
+      "De tak moet stevig zijn.",
+      "Een minuut is intensiever dan je denkt."
+    ],
+    "tips": [
+      "Controleer de tak van tevoren.",
+      "Houd je grip stevig.",
+      "Ontspan je schouders."
+    ],
+    "criteria": [
+      "1 minuut gehangen.",
+      "Veilige tak gekozen.",
+      "Ontspannen positie."
+    ]
+  },
+  {
+    "id": 156,
+    "img_location": "assets/images/run_group.jpg",
+    "title": "Loopgroep-Oprichten",
+    "description": "Vraag 2 vreemden of ze 5 minuten met je meelopen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 199,
+    "difficulty": "Moeilijk",
+    "category": "Fysiek",
+    "comfyPoints": 194,
+    "expectations": [
+      "Het voelt vreemd om te vragen.",
+      "Maar soms zeggen mensen ja.",
+      "De groepsdynamiek is direct aanwezig."
+    ],
+    "tips": [
+      "Vraag vriendelijk en direct.",
+      "Leg je uitdaging uit.",
+      "Accepteer een nee."
+    ],
+    "criteria": [
+      "Gevraagd.",
+      "Minimaal 1 persoon meegelopen.",
+      "Vriendelijk bij nee."
+    ]
+  },
+  {
+    "id": 157,
+    "img_location": "assets/images/goal_tree.jpg",
+    "title": "Doel-Boom",
+    "description": "Schrijf je grootste doel op papier en begraaf het onder een boom.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 227,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 112,
+    "expectations": [
+      "Het ritueel maakt het doel reëler.",
+      "Je kiest bewust een plek.",
+      "Je kunt het later terugvinden."
+    ],
+    "tips": [
+      "Schrijf het concreet op.",
+      "Kies een memorabele boom.",
+      "Stel een herinnering in om terug te gaan."
+    ],
+    "criteria": [
+      "Doel opgeschreven.",
+      "Begraven.",
+      "Herinnering ingesteld."
+    ]
+  },
+  {
+    "id": 158,
+    "img_location": "assets/images/silent_walk.jpg",
+    "title": "Stilte-Wandeling",
+    "description": "Loop 15 minuten in absolute stilte, zonder muziek of gesprekken.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 598,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 82,
+    "expectations": [
+      "De stilte is ongewoon maar helend.",
+      "Je gedachten worden luider voor ze stiller worden.",
+      "Je hoort de wereld anders."
+    ],
+    "tips": [
+      "Schakel alles uit.",
+      "Loop normaal tempo.",
+      "Accepteer elke gedachte."
+    ],
+    "criteria": [
+      "15 minuten in stilte.",
+      "Geen audio.",
+      "Bewust gelopen."
+    ]
+  },
+  {
+    "id": 159,
+    "img_location": "assets/images/affirmations.jpg",
+    "title": "Park-Affirmaties",
+    "description": "Zeg 5 positieve affirmaties hardop terwijl je in het park wandelt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 67,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 144,
+    "expectations": [
+      "Hardop zeggen is krachtiger dan denken.",
+      "Je voelt je misschien gek.",
+      "Maar de impact is reëel."
+    ],
+    "tips": [
+      "Kies affirmaties die je echt gelooft.",
+      "Zeg ze luid en met overtuiging.",
+      "Herhaal ze 3 keer."
+    ],
+    "criteria": [
+      "5 affirmaties gezegd.",
+      "Hardop.",
+      "3 keer herhaald."
+    ]
+  },
+  {
+    "id": 160,
+    "img_location": "assets/images/gratitude_walk.jpg",
+    "title": "Dankbaarheids-Wandeling",
+    "description": "Wees bij elke stap dankbaar voor één ding in je leven.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 63,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 30,
+    "expectations": [
+      "Het is moeilijker vol te houden dan het klinkt.",
+      "Je dag verandert van perspectief.",
+      "Dankbaarheid stapelt op."
+    ],
+    "tips": [
+      "Kies bewust bij elke stap.",
+      "Varieer groot en klein.",
+      "Loop minimaal 10 minuten."
+    ],
+    "criteria": [
+      "10 minuten gelopen.",
+      "Bij elke stap iets.",
+      "Gevarieerd."
+    ]
+  },
+  {
+    "id": 161,
+    "img_location": "assets/images/self_talk.jpg",
+    "title": "Zelfgesprek",
+    "description": "Voer een volledig gesprek met jezelf hardop in het park (als niemand hoort).",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 493,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 181,
+    "expectations": [
+      "Het helpt gedachten te ordenen.",
+      "Je hoort jezelf anders.",
+      "Het voelt raar maar werkt."
+    ],
+    "tips": [
+      "Kies een rustige plek.",
+      "Stel jezelf vragen en beantwoord ze.",
+      "Wees eerlijk."
+    ],
+    "criteria": [
+      "Gesprek gevoerd.",
+      "Vragen gesteld en beantwoord.",
+      "Eerlijk gebleven."
+    ]
+  },
+  {
+    "id": 162,
+    "img_location": "assets/images/first_spring.jpg",
+    "title": "Eerste-Lente-Bloem",
+    "description": "Zoek de eerste tekenen van een nieuw seizoen in het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 548,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 42,
+    "expectations": [
+      "Je let op details die je normaal mist.",
+      "Het verbindt je met de cyclus van de natuur.",
+      "Het gevoel van ontdekking is groot."
+    ],
+    "tips": [
+      "Loop het hele park door.",
+      "Fotografeer wat je vindt.",
+      "Schrijf op wat het voor je betekent."
+    ],
+    "criteria": [
+      "Tekenen van seizoen gevonden.",
+      "Gefotografeerd.",
+      "Betekenis opgeschreven."
+    ]
+  },
+  {
+    "id": 163,
+    "img_location": "assets/images/rainy_park.jpg",
+    "title": "Park-Bij-Regen",
+    "description": "Ga bewust naar het park tijdens lichte regen en geniet van de ervaring.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 63,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 95,
+    "expectations": [
+      "Regen maakt het park stiller.",
+      "De geuren zijn intenser.",
+      "Je overwint een kleine weerstand."
+    ],
+    "tips": [
+      "Kleed je voor de regen.",
+      "Laat de regen vallen.",
+      "Observeer wat anders is dan droog weer."
+    ],
+    "criteria": [
+      "Bij regen in het park geweest.",
+      "Minimaal 15 minuten.",
+      "Observaties gedaan."
+    ]
+  },
+  {
+    "id": 164,
+    "img_location": "assets/images/night_walk.jpg",
+    "title": "Nacht-Wandeling",
+    "description": "Maak een wandeling in het park na zonsondergang.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 525,
+    "difficulty": "Moeilijk",
+    "category": "Ervaring",
+    "comfyPoints": 297,
+    "expectations": [
+      "Het park is onherkenbaar anders.",
+      "Je zintuigen worden scherper.",
+      "Een lichte spanning is onderdeel van de ervaring."
+    ],
+    "tips": [
+      "Ga bij voorkeur niet alleen.",
+      "Neem een zaklamp mee.",
+      "Observeer geluiden en sfeer."
+    ],
+    "criteria": [
+      "Na zonsondergang gewandeld.",
+      "Minimaal 20 minuten.",
+      "Geluiden genoteerd."
+    ]
+  },
+  {
+    "id": 165,
+    "img_location": "assets/images/minimal_walk.jpg",
+    "title": "Minimale-Wandeling",
+    "description": "Loop een route die je normaal zou overslaan.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 195,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 15,
+    "expectations": [
+      "Je ontdekt plekken die je al jaren negeert.",
+      "De route wordt een avontuur.",
+      "Elk pad heeft zijn eigen sfeer."
+    ],
+    "tips": [
+      "Kies bewust de 'saaiste' route.",
+      "Observeer alsof je er voor het eerst bent.",
+      "Schrijf één opvallend ding op."
+    ],
+    "criteria": [
+      "Onbekende route genomen.",
+      "Iets nieuws ontdekt.",
+      "Opgeschreven."
+    ]
+  },
+  {
+    "id": 166,
+    "img_location": "assets/images/shadow_walk.jpg",
+    "title": "Schaduw-Volgen",
+    "description": "Volg je eigen schaduw als gids tijdens een wandeling.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 74,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 14,
+    "expectations": [
+      "Je looptempo verandert.",
+      "Je kijkt anders naar licht.",
+      "Het is een speelse manier van navigeren."
+    ],
+    "tips": [
+      "Loop in de richting van je schaduw.",
+      "Pas je route aan als de schaduw draait.",
+      "Loop minimaal 10 minuten."
+    ],
+    "criteria": [
+      "10 minuten schaduw gevolgd.",
+      "Route door schaduw bepaald.",
+      "Bewust gedaan."
+    ]
+  },
+  {
+    "id": 167,
+    "img_location": "assets/images/park_collage.jpg",
+    "title": "Park-Collage",
+    "description": "Maak een collage van gevonden materialen op een vel papier.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 418,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 105,
+    "expectations": [
+      "Elk materiaal heeft een andere textuur.",
+      "Het resultaat is altijd uniek.",
+      "Het is meditatief om te maken."
+    ],
+    "tips": [
+      "Neem lijm en papier mee.",
+      "Varieer in materialen.",
+      "Geef de collage een titel."
+    ],
+    "criteria": [
+      "Collage gemaakt.",
+      "Gevonden materialen gebruikt.",
+      "Titel gegeven."
+    ]
+  },
+  {
+    "id": 168,
+    "img_location": "assets/images/cloud_map.jpg",
+    "title": "Hemelkaart",
+    "description": "Teken de wolken precies zoals ze er nu uitzien.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 588,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 17,
+    "expectations": [
+      "Wolken zijn complexer dan je denkt.",
+      "De schets is een moment in de tijd.",
+      "Je kijkt intenser omhoog."
+    ],
+    "tips": [
+      "Teken snel, wolken bewegen.",
+      "Gebruik schaduw voor diepte.",
+      "Geef de tekening een tijdstempel."
+    ],
+    "criteria": [
+      "Wolken getekend.",
+      "Tijdstempel toegevoegd.",
+      "Snel gedaan."
+    ]
+  },
+  {
+    "id": 169,
+    "img_location": "assets/images/animal_diary.jpg",
+    "title": "Park-Dieren-Dagboek",
+    "description": "Beschrijf elk dier dat je tegenkomt als een romanpersonage.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 597,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 25,
+    "expectations": [
+      "Dieren worden ineens interessant.",
+      "Je schrijft onbewust poëtisch.",
+      "Het is een leuke observatieoefening."
+    ],
+    "tips": [
+      "Schrijf minimaal 3 zinnen per dier.",
+      "Geef elk dier een naam.",
+      "Beschrijf hun 'persoonlijkheid'."
+    ],
+    "criteria": [
+      "Minimaal 3 dieren beschreven.",
+      "Naam per dier.",
+      "Persoonlijkheid omschreven."
+    ]
+  },
+  {
+    "id": 170,
+    "img_location": "assets/images/verbal_painting.jpg",
+    "title": "Schilderij-Zonder-Verf",
+    "description": "Beschrijf een landschap in het park zo gedetailleerd dat het een schilderij lijkt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 88,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 80,
+    "expectations": [
+      "Taal wordt je penseel.",
+      "Je observeert elk detail.",
+      "Het resultaat is poëtisch proza."
+    ],
+    "tips": [
+      "Schrijf in het presens.",
+      "Gebruik kleuren en licht uitvoerig.",
+      "Minimaal 8 zinnen."
+    ],
+    "criteria": [
+      "Landschap beschreven.",
+      "Minimaal 8 zinnen.",
+      "Kleur en licht aanwezig."
+    ]
+  },
+  {
+    "id": 171,
+    "img_location": "assets/images/mini_theatre.jpg",
+    "title": "Mini-Theater",
+    "description": "Schrijf en speel een mini-toneelstukje van 1 minuut voor jezelf.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 583,
+    "difficulty": "Moeilijk",
+    "category": "Creatief",
+    "comfyPoints": 228,
+    "expectations": [
+      "Het schrijven en spelen is al een prestatie.",
+      "Je voelt je belachelijk maar ook vrij.",
+      "Het is een uniek moment van expressie."
+    ],
+    "tips": [
+      "Schrijf het van tevoren.",
+      "Speel het op een rustige plek.",
+      "Maak een foto of video als herinnering."
+    ],
+    "criteria": [
+      "Stukje geschreven.",
+      "Gespeeld.",
+      "Herinnering gemaakt."
+    ]
+  },
+  {
+    "id": 172,
+    "img_location": "assets/images/meal_timeline.jpg",
+    "title": "Maaltijd-Tijdlijn",
+    "description": "Teken een tijdlijn van je maaltijd: elk gerecht als een hoofdstuk.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 328,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 43,
+    "expectations": [
+      "Je maaltijd wordt een verhaal.",
+      "Je observeert de voortgang anders.",
+      "Het is een leuke herinnering."
+    ],
+    "tips": [
+      "Teken voor elk gerecht een blok.",
+      "Voeg woorden en symbolen toe.",
+      "Bewaar het."
+    ],
+    "criteria": [
+      "Tijdlijn getekend.",
+      "Per gerecht een blok.",
+      "Bewaard."
+    ]
+  },
+  {
+    "id": 173,
+    "img_location": "assets/images/restaurant_promise.jpg",
+    "title": "Restaurantbelofte",
+    "description": "Maak aan het einde van je maaltijd één concrete belofte aan jezelf.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 214,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 26,
+    "expectations": [
+      "Een belofte na een goede maaltijd is krachtig.",
+      "Je bent ontspannen en open.",
+      "Het verbindt eten met groei."
+    ],
+    "tips": [
+      "Schrijf de belofte op.",
+      "Maak hem concreet en haalbaar.",
+      "Stel een reminder in."
+    ],
+    "criteria": [
+      "Belofte geschreven.",
+      "Concreet.",
+      "Reminder gezet."
+    ]
+  },
+  {
+    "id": 174,
+    "img_location": "assets/images/silent_waiter.jpg",
+    "title": "Stille-Ober",
+    "description": "Communiceer je wensen aan de ober zonder woorden (alleen gebaren).",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 326,
+    "difficulty": "Moeilijk",
+    "category": "Publiek",
+    "comfyPoints": 260,
+    "expectations": [
+      "De ober doet soms enthousiast mee.",
+      "Het kost meer tijd maar is grappig.",
+      "Je creatieve communicatie wordt getest."
+    ],
+    "tips": [
+      "Bedenk gebaren van tevoren.",
+      "Blijf vriendelijk en geduldig.",
+      "Leg de bestelling daarna uit indien nodig."
+    ],
+    "criteria": [
+      "Bestelling zonder woorden gedaan.",
+      "Vriendelijk gebleven.",
+      "Ober begrepen."
+    ]
+  },
+  {
+    "id": 175,
+    "img_location": "assets/images/restaurant_logo.jpg",
+    "title": "Restaurantlogo",
+    "description": "Ontwerp een logo voor het restaurant op een servet.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 276,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 105,
+    "expectations": [
+      "Je denkt als een ontwerper.",
+      "Het logo onthult hoe jij de zaak ziet.",
+      "Het kan worden aangeboden aan het personeel."
+    ],
+    "tips": [
+      "Kies een symbool en naam.",
+      "Houd het eenvoudig maar herkenbaar.",
+      "Geef het eventueel aan het personeel."
+    ],
+    "criteria": [
+      "Logo ontworpen.",
+      "Eenvoudig en herkenbaar.",
+      "Eventueel aangeboden."
+    ]
+  },
+  {
+    "id": 176,
+    "img_location": "assets/images/last_bite.jpg",
+    "title": "Laatste-Hap-Ceremonie",
+    "description": "Maak van je laatste hap een bewust en feestelijk moment.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 139,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 35,
+    "expectations": [
+      "Laatste happen worden zelden bewust genomen.",
+      "Het is een mooie manier om af te sluiten.",
+      "Je waardeert de maaltijd meer."
+    ],
+    "tips": [
+      "Weet wanneer je laatste hap is.",
+      "Pauzeer even voor je hem neemt.",
+      "Sluit je ogen en proef."
+    ],
+    "criteria": [
+      "Laatste hap bewust genomen.",
+      "Gepauzeerd.",
+      "Ogen gesloten."
+    ]
+  },
+  {
+    "id": 177,
+    "img_location": "assets/images/coffee_capsule.jpg",
+    "title": "Koffie-Tijdcapsule",
+    "description": "Schrijf een brief voor jezelf die je over 1 jaar leest en stop hem in je tas.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 473,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 113,
+    "expectations": [
+      "Het verbindt je met je toekomstige zelf.",
+      "De brief is intiem en persoonlijk.",
+      "Een jaar later is het een cadeau."
+    ],
+    "tips": [
+      "Schrijf eerlijk over nu.",
+      "Stel vragen aan je toekomstige zelf.",
+      "Sla het op een veilige plek."
+    ],
+    "criteria": [
+      "Brief geschreven.",
+      "Vragen gesteld.",
+      "Veilig opgeslagen."
+    ]
+  },
+  {
+    "id": 178,
+    "img_location": "assets/images/barista_wish.jpg",
+    "title": "Barista-Wens",
+    "description": "Vraag de barista wat hun grote wens voor dit jaar is.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 79,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 115,
+    "expectations": [
+      "Barista's worden zelden gevraagd naar hun dromen.",
+      "De wens kan verrassend zijn.",
+      "Je bouwt een echte verbinding."
+    ],
+    "tips": [
+      "Vraag op een rustig moment.",
+      "Luister echt.",
+      "Deel eventueel jouw wens ook."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Geluisterd.",
+      "Eventueel eigen wens gedeeld."
+    ]
+  },
+  {
+    "id": 179,
+    "img_location": "assets/images/napkin_exhibition.jpg",
+    "title": "Koffie-Kunst-Tentoonstelling",
+    "description": "Maak 3 mini-kunstwerkjes van servetten en leg ze neer als een tentoonstelling.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 474,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 76,
+    "expectations": [
+      "Je creëert een micro-galerie.",
+      "Het is grappig en opvallend.",
+      "Mensen reageren verrast."
+    ],
+    "tips": [
+      "Maak 3 verschillende werkjes.",
+      "Leg ze netjes neer.",
+      "Geef elk een naam."
+    ],
+    "criteria": [
+      "3 werkjes gemaakt.",
+      "Tentoongesteld.",
+      "Namen gegeven."
+    ]
+  },
+  {
+    "id": 180,
+    "img_location": "assets/images/coffee_mirror.jpg",
+    "title": "Koffie-Spiegel",
+    "description": "Schrijf op wat je in je koffiekop ziet als je er lang in kijkt.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 581,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 49,
+    "expectations": [
+      "Je fantasie wordt gestimuleerd.",
+      "Het is een oefen in associatie.",
+      "Het resultaat is poëtisch."
+    ],
+    "tips": [
+      "Kijk minimaal 1 minuut.",
+      "Schrijf vrij en zonder nadenken.",
+      "Lees het daarna."
+    ],
+    "criteria": [
+      "1 minuut gekeken.",
+      "Vrij geschreven.",
+      "Gelezen."
+    ]
+  },
+  {
+    "id": 181,
+    "img_location": "assets/images/walk_journal.jpg",
+    "title": "Café-Loopjournaal",
+    "description": "Schrijf na elke wandeling door het café een zin over wat je opviel.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 80,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 16,
+    "expectations": [
+      "Je observeert steeds scherper.",
+      "Elke zin is een snapshot.",
+      "Het wordt een mini-dagboek."
+    ],
+    "tips": [
+      "Loop minimaal 3 rondes.",
+      "Schrijf direct na elke ronde.",
+      "Lees het geheel aan het einde."
+    ],
+    "criteria": [
+      "3 rondes gelopen.",
+      "Zin per ronde.",
+      "Geheel gelezen."
+    ]
+  },
+  {
+    "id": 182,
+    "img_location": "assets/images/shared_umbrella.jpg",
+    "title": "Gedeelde Paraplu",
+    "description": "Bied een vreemde die nat wordt een plek onder jouw paraplu aan.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 394,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 126,
+    "expectations": [
+      "Het voelt intiem maar is vriendelijk.",
+      "Mensen zijn verrast door de geste.",
+      "Je start een gesprek vanzelf."
+    ],
+    "tips": [
+      "Wees direct en vriendelijk.",
+      "Houd de paraplu neutraal tussen jullie.",
+      "Praat tijdens het lopen."
+    ],
+    "criteria": [
+      "Aanbod gedaan.",
+      "Samen gewandeld bij ja.",
+      "Vriendelijk bij nee."
+    ]
+  },
+  {
+    "id": 183,
+    "img_location": "assets/images/lost_item.jpg",
+    "title": "Verloren Voorwerp",
+    "description": "Help iemand een verloren voorwerp terugvinden.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 188,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 22,
+    "expectations": [
+      "Het is een concrete manier van helpen.",
+      "Mensen zijn opgelucht en dankbaar.",
+      "Het voelt goed om echt nuttig te zijn."
+    ],
+    "tips": [
+      "Zoek actief mee.",
+      "Geef niet snel op.",
+      "Vier het samen als het gevonden is."
+    ],
+    "criteria": [
+      "Geholpen met zoeken.",
+      "Positieve bijdrage geleverd.",
+      "Energie erin gestoken."
+    ]
+  },
+  {
+    "id": 184,
+    "img_location": "assets/images/news_share.jpg",
+    "title": "Park-Nieuwslezer",
+    "description": "Vertel een vreemde een interessant nieuwtje dat je hebt gehoord.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 259,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 24,
+    "expectations": [
+      "Het geeft een makkelijke gespreksopening.",
+      "Mensen reageren nieuwsgierig.",
+      "Je oefent tegelijk je gespreksvoering."
+    ],
+    "tips": [
+      "Kies positief of neutraal nieuws.",
+      "Vertel het met enthousiasme.",
+      "Vraag om hun mening."
+    ],
+    "criteria": [
+      "Nieuwtje gedeeld.",
+      "Reactie ontvangen.",
+      "Mening gevraagd."
+    ]
+  },
+  {
+    "id": 185,
+    "img_location": "assets/images/happiness_mission.jpg",
+    "title": "Vrolijkheids-Missie",
+    "description": "Doe één ding vandaag dat iemand anders in het park blij maakt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 93,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 18,
+    "expectations": [
+      "Kleine daden hebben grote impact.",
+      "Je kiest zelf wat het is.",
+      "Het gevoel daarna is geweldig."
+    ],
+    "tips": [
+      "Denk van tevoren na wat je wil doen.",
+      "Doe het oprecht.",
+      "Observeer de reactie."
+    ],
+    "criteria": [
+      "Actie ondernomen.",
+      "Gericht op iemand anders.",
+      "Oprecht gedaan."
+    ]
+  },
+  {
+    "id": 186,
+    "img_location": "assets/images/kids_play.jpg",
+    "title": "Kinderbal",
+    "description": "Speel mee met kinderen in het park als ouders toestemming geven.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 397,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 107,
+    "expectations": [
+      "Kinderen zijn onbevangen.",
+      "Je voelt je jong en vrij.",
+      "Ouders zijn soms sceptisch maar ook blij."
+    ],
+    "tips": [
+      "Vraag toestemming aan ouders.",
+      "Speel op gelijk niveau.",
+      "Maak er iets leuks van."
+    ],
+    "criteria": [
+      "Toestemming gevraagd.",
+      "Meegespeeld.",
+      "Plezier gemaakt."
+    ]
+  },
+  {
+    "id": 187,
+    "img_location": "assets/images/poem_stranger.jpg",
+    "title": "Park-Dichter",
+    "description": "Schrijf een gedicht voor een vreemde en geef het aan hen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 556,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 242,
+    "expectations": [
+      "Het is onverwacht en persoonlijk.",
+      "De vreemde is soms bewogen.",
+      "Schrijven voor iemand anders is intens."
+    ],
+    "tips": [
+      "Observeer de persoon van tevoren.",
+      "Schrijf snel en oprecht.",
+      "Geef het zonder verwachting."
+    ],
+    "criteria": [
+      "Gedicht geschreven.",
+      "Aan de persoon gegeven.",
+      "Oprecht en persoonlijk."
+    ]
+  },
+  {
+    "id": 188,
+    "img_location": "assets/images/sunshine_mission.jpg",
+    "title": "Zonnestraal-Missie",
+    "description": "Zeg iets aardigs dat de dag van minimaal 3 vreemden opheldert.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 506,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 86,
+    "expectations": [
+      "Aardige woorden kosten niets.",
+      "Drie mensen is haalbaar.",
+      "Je dag wordt ook beter."
+    ],
+    "tips": [
+      "Kies echte, oprechte dingen.",
+      "Kijk de persoon aan.",
+      "Wacht niet op de perfecte moment."
+    ],
+    "criteria": [
+      "3 mensen blij gemaakt.",
+      "Oprechte woorden.",
+      "Oogcontact gemaakt."
+    ]
+  },
+  {
+    "id": 189,
+    "img_location": "assets/images/portrait_request.jpg",
+    "title": "Portretverzoek",
+    "description": "Vraag een vreemde of je een portret van hen mag tekenen ter plekke.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 436,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 200,
+    "expectations": [
+      "De meeste mensen zijn gevleid.",
+      "Sommigen weigeren.",
+      "Tekenen in aanwezigheid voelt spannend."
+    ],
+    "tips": [
+      "Vraag vriendelijk.",
+      "Leg uit dat het voor een uitdaging is.",
+      "Geef het portret achteraf."
+    ],
+    "criteria": [
+      "Toestemming gevraagd.",
+      "Portret getekend.",
+      "Gegeven aan de persoon."
+    ]
+  },
+  {
+    "id": 190,
+    "img_location": "assets/images/fountain_dip.jpg",
+    "title": "Koude-Fontein",
+    "description": "Doop je handen in een parkfontein en wrijf het water op je gezicht.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 226,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 49,
+    "expectations": [
+      "Het water is kouder dan verwacht.",
+      "Het is verfrissend en wakker makend.",
+      "De actie is klein maar bewust."
+    ],
+    "tips": [
+      "Kies een schone fontein.",
+      "Doe het bewust.",
+      "Voel het koude water echt."
+    ],
+    "criteria": [
+      "Handen in fontein gedompeld.",
+      "Water op gezicht gewreven.",
+      "Bewust gedaan."
+    ]
+  },
+  {
+    "id": 191,
+    "img_location": "assets/images/stair_jump.jpg",
+    "title": "Trapspringen",
+    "description": "Spring alle trappen in het park met twee benen tegelijk omhoog.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 402,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 122,
+    "expectations": [
+      "Je kuiten worden getest.",
+      "Het is intensiever dan normaal lopen.",
+      "Mensen kijken maar lachen."
+    ],
+    "tips": [
+      "Zorg voor veilige trappen.",
+      "Land zacht.",
+      "Doe alle trappen die je tegenkomt."
+    ],
+    "criteria": [
+      "Alle trappen gesprongen.",
+      "Veilig gedaan.",
+      "Twee benen tegelijk."
+    ]
+  },
+  {
+    "id": 192,
+    "img_location": "assets/images/backpack_workout.jpg",
+    "title": "Rugzak-Workout",
+    "description": "Doe een workout met je rugzak als extra gewicht.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 160,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 102,
+    "expectations": [
+      "Een rugzak als gewicht is functioneel.",
+      "Je voelt het extra gewicht direct.",
+      "Je traint veelzijdiger."
+    ],
+    "tips": [
+      "Doe squats, lunges en planken.",
+      "Zorg voor een zware maar veilige rugzak.",
+      "Minimaal 10 minuten."
+    ],
+    "criteria": [
+      "Workout gedaan.",
+      "Met rugzak als gewicht.",
+      "10 minuten volgehouden."
+    ]
+  },
+  {
+    "id": 193,
+    "img_location": "assets/images/pond_sprint.jpg",
+    "title": "Vijver-Sprint",
+    "description": "Doe een sprint van het begin naar het einde van de vijver.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 188,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 39,
+    "expectations": [
+      "Het is een korte maar krachtige sprint.",
+      "De afstand is voor iedereen haalbaar.",
+      "Je hartslag stijgt direct."
+    ],
+    "tips": [
+      "Warm op voor de sprint.",
+      "Ren op maximale snelheid.",
+      "Cool down met een rustige wandeling."
+    ],
+    "criteria": [
+      "Sprint gedaan.",
+      "Maximale inspanning.",
+      "Cool down gedaan."
+    ]
+  },
+  {
+    "id": 194,
+    "img_location": "assets/images/outdoor_abs.jpg",
+    "title": "Buiten-Abs",
+    "description": "Doe 3 sets van 15 crunches op het gras.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 351,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 147,
+    "expectations": [
+      "Buikspieren voelen het gras.",
+      "3 sets is een goede start.",
+      "Je traint een vergeten spiergroep."
+    ],
+    "tips": [
+      "Lig plat op je rug.",
+      "Houd je nek los.",
+      "Rust 30 seconden tussen sets."
+    ],
+    "criteria": [
+      "3 sets gedaan.",
+      "15 crunches per set.",
+      "Op gras."
+    ]
+  },
+  {
+    "id": 195,
+    "img_location": "assets/images/hill_walk.jpg",
+    "title": "Heuvel-Wandeling",
+    "description": "Zoek een heuvel of helling in het park en loop hem 3 keer op en neer.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 546,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 85,
+    "expectations": [
+      "Hellingen zijn intensiever dan vlakke grond.",
+      "Je hartslag stijgt snel.",
+      "3 keer is een mooie uitdaging."
+    ],
+    "tips": [
+      "Kies een beschikbare helling.",
+      "Loop normaal tempo omhoog.",
+      "Loop rustig terug."
+    ],
+    "criteria": [
+      "3 keer op en neer.",
+      "Consistent tempo.",
+      "Niet gestopt."
+    ]
+  },
+  {
+    "id": 196,
+    "img_location": "assets/images/forward_roll.jpg",
+    "title": "Duikrol",
+    "description": "Doe een veilige duikrol op het gras.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 485,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 86,
+    "expectations": [
+      "Het is kinderlijk en fun.",
+      "Je herinnert je hoe het moet (of niet).",
+      "Het vereist vertrouwen in je lichaam."
+    ],
+    "tips": [
+      "Kies zacht gras.",
+      "Tuck je kin in.",
+      "Rol soepel door."
+    ],
+    "criteria": [
+      "Duikrol gemaakt.",
+      "Veilig gras gekozen.",
+      "Soepel uitgevoerd."
+    ]
+  },
+  {
+    "id": 197,
+    "img_location": "assets/images/arm_hold.jpg",
+    "title": "Armen-Balans",
+    "description": "Houd je armen 2 minuten horizontaal gestrekt zonder te zakken.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 417,
+    "difficulty": "Gemiddeld",
+    "category": "Fysiek",
+    "comfyPoints": 115,
+    "expectations": [
+      "Schouders branden na 1 minuut.",
+      "Je concentratie bepaalt het.",
+      "Het is simpel maar intensief."
+    ],
+    "tips": [
+      "Begin ontspannen.",
+      "Activeer je schouderbladen.",
+      "Focus op een punt voor je."
+    ],
+    "criteria": [
+      "2 minuten volgehouden.",
+      "Armen horizontaal.",
+      "Niet laten zakken."
+    ]
+  },
+  {
+    "id": 198,
+    "img_location": "assets/images/warm_welcome.jpg",
+    "title": "Eerste-Bezoek-Welkom",
+    "description": "Vraag het personeel om een nieuwe gast extra hartelijk te verwelkomen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 280,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 80,
+    "expectations": [
+      "Je organiseert iets voor iemand anders.",
+      "Het personeel speelt mee.",
+      "De nieuwe gast voelt zich gezien."
+    ],
+    "tips": [
+      "Vraag op een rustig moment.",
+      "Wees concreet wat je bedoelt.",
+      "Observeer de reactie van de gast."
+    ],
+    "criteria": [
+      "Personeel gevraagd.",
+      "Verwelkoming georganiseerd.",
+      "Reactie geobserveerd."
+    ]
+  },
+  {
+    "id": 199,
+    "img_location": "assets/images/travel_story.jpg",
+    "title": "Tafel-Verhaal",
+    "description": "Vraag het naastgelegen tafel om hun mooiste reisherinnering.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 12,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 146,
+    "expectations": [
+      "Reisverhalen zijn altijd boeiend.",
+      "Het is een makkelijke gespreksopening.",
+      "Je gaat weg met inspiratie."
+    ],
+    "tips": [
+      "Wacht op een rustig moment.",
+      "Toon oprechte interesse.",
+      "Deel eventueel ook jouw verhaal."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Verhaal gehoord.",
+      "Reactie gegeven."
+    ]
+  },
+  {
+    "id": 200,
+    "img_location": "assets/images/kitchen_note.jpg",
+    "title": "Keuken-Bedankje",
+    "description": "Schrijf een kort bedankbriefje aan de keuken en geef het aan de ober.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 213,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 37,
+    "expectations": [
+      "Keukenmedewerkers zien de gasten zelden.",
+      "Een briefje is een zeldzame geste.",
+      "Het team wordt er blij van."
+    ],
+    "tips": [
+      "Schrijf het aan het einde van de maaltijd.",
+      "Wees specifiek over wat je lekker vond.",
+      "Vraag de ober het door te geven."
+    ],
+    "criteria": [
+      "Briefje geschreven.",
+      "Aan ober gegeven.",
+      "Specifiek en oprecht."
+    ]
+  },
+  {
+    "id": 201,
+    "img_location": "assets/images/table_giver.jpg",
+    "title": "Tafeldeler",
+    "description": "Geef je tafel af aan een groep die geen plek heeft.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 552,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 221,
+    "expectations": [
+      "Het is een groot gebaar.",
+      "Je offert je eigen comfort op.",
+      "De groep is altijd dankbaar."
+    ],
+    "tips": [
+      "Zorg dat je bijna klaar bent.",
+      "Bied proactief aan.",
+      "Accepteer hun dankbaarheid vriendelijk."
+    ],
+    "criteria": [
+      "Tafel aangeboden.",
+      "Proactief gedaan.",
+      "Vriendelijk vertrokken."
+    ]
+  },
+  {
+    "id": 202,
+    "img_location": "assets/images/celebration_find.jpg",
+    "title": "Feestje-Detectief",
+    "description": "Vind iemand die iets te vieren heeft en feliciteer hen uitgebreid.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 478,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 85,
+    "expectations": [
+      "Observeer gesprekken en sfeer.",
+      "Mensen zijn altijd blij met een felicitatie.",
+      "Het kan een mooie interactie worden."
+    ],
+    "tips": [
+      "Luister actief om je heen.",
+      "Wacht op het juiste moment.",
+      "Wees oprecht en warm."
+    ],
+    "criteria": [
+      "Iemand gevonden.",
+      "Gecelebreerd.",
+      "Oprecht gedaan."
+    ]
+  },
+  {
+    "id": 203,
+    "img_location": "assets/images/cutlery_sculpture.jpg",
+    "title": "Gerecht-Sculptuur",
+    "description": "Maak voor het eten een kleine sculptuur van je bestek en servetten.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 207,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 43,
+    "expectations": [
+      "Het vult de wachttijd creatief.",
+      "Het resultaat is altijd uniek.",
+      "De ober reageert soms verrast."
+    ],
+    "tips": [
+      "Gebruik alleen wat er op tafel ligt.",
+      "Maak het zo mooi mogelijk.",
+      "Vraag de ober of ze het mogen fotograferen."
+    ],
+    "criteria": [
+      "Sculptuur gemaakt.",
+      "Voor de maaltijd.",
+      "Gefotografeerd."
+    ]
+  },
+  {
+    "id": 204,
+    "img_location": "assets/images/menu_haiku.jpg",
+    "title": "Menu-Haiku",
+    "description": "Schrijf een haiku over het menu als geheel.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 478,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 48,
+    "expectations": [
+      "Het menu als inspiratiebron.",
+      "Een haiku dwingt je tot essentie.",
+      "Het resultaat is vaak grappig."
+    ],
+    "tips": [
+      "Lees eerst het hele menu.",
+      "5-7-5 structuur.",
+      "Schrijf meerdere tot je tevreden bent."
+    ],
+    "criteria": [
+      "Haiku geschreven.",
+      "Over het menu.",
+      "Juiste structuur."
+    ]
+  },
+  {
+    "id": 205,
+    "img_location": "assets/images/restaurant_anthem.jpg",
+    "title": "Restaurant-Anthem",
+    "description": "Schrijf een kort anthem (4 regels) voor het restaurant.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 371,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 81,
+    "expectations": [
+      "Je denkt als een marketeer én dichter.",
+      "4 regels zijn snel gedaan.",
+      "Het kan serieus of grappig zijn."
+    ],
+    "tips": [
+      "Baseer het op de sfeer en het eten.",
+      "Rijm minstens twee regels.",
+      "Geef het eventueel aan het personeel."
+    ],
+    "criteria": [
+      "Anthem geschreven.",
+      "4 regels.",
+      "Rijm aanwezig."
+    ]
+  },
+  {
+    "id": 206,
+    "img_location": "assets/images/kitchen_fantasy.jpg",
+    "title": "Keuken-Fantasie",
+    "description": "Beschrijf wat je denkt dat er achter de keukendeur gebeurt in 5 zinnen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 226,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 18,
+    "expectations": [
+      "Je fantasie vult de lege plekken op.",
+      "Het geeft respect voor het werk.",
+      "De beschrijving is altijd levendig."
+    ],
+    "tips": [
+      "Schrijf levendig en specifiek.",
+      "Voeg geur en geluid toe.",
+      "Vergelijk achteraf met de realiteit indien mogelijk."
+    ],
+    "criteria": [
+      "5 zinnen geschreven.",
+      "Levendig taalgebruik.",
+      "Zintuigen aangesproken."
+    ]
+  },
+  {
+    "id": 207,
+    "img_location": "assets/images/mood_coffee.jpg",
+    "title": "Koffie-Persoonlijkheidstest",
+    "description": "Kies een koffiesoort op basis van je stemming en leg uit waarom.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 457,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 20,
+    "expectations": [
+      "Je ontdekt de link tussen stemming en smaak.",
+      "Het is een leuk experiment.",
+      "Je barista kan meedenken."
+    ],
+    "tips": [
+      "Beschrijf je stemming eerst.",
+      "Koppel er een koffie aan.",
+      "Noteer of het klopte."
+    ],
+    "criteria": [
+      "Stemming beschreven.",
+      "Koffie gekozen.",
+      "Evaluatie gedaan."
+    ]
+  },
+  {
+    "id": 208,
+    "img_location": "assets/images/barista_thanks.jpg",
+    "title": "Barista-Dankdag",
+    "description": "Geef de barista een handgeschreven bedankkaartje voor hun dagelijkse werk.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 186,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 48,
+    "expectations": [
+      "Barista's worden zelden bedankt op papier.",
+      "Het is een klein maar betekenisvol gebaar.",
+      "De dag van de barista wordt beter."
+    ],
+    "tips": [
+      "Schrijf het van tevoren.",
+      "Wees specifiek.",
+      "Geef het persoonlijk af."
+    ],
+    "criteria": [
+      "Kaartje geschreven.",
+      "Persoonlijk afgegeven.",
+      "Specifiek en oprecht."
+    ]
+  },
+  {
+    "id": 209,
+    "img_location": "assets/images/coffee_experiment.jpg",
+    "title": "Koffie-Experiment",
+    "description": "Voeg een ongewoon ingredient toe aan je koffie (bv. zout, kardemom).",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 185,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 139,
+    "expectations": [
+      "Je smaakpalet wordt uitgedaagd.",
+      "Het resultaat kan verrassend goed zijn.",
+      "De barista kan suggesties geven."
+    ],
+    "tips": [
+      "Vraag toestemming.",
+      "Voeg een klein beetje toe.",
+      "Beoordeel eerlijk."
+    ],
+    "criteria": [
+      "Experiment gedaan.",
+      "Ingredient toegevoegd.",
+      "Eerlijke beoordeling."
+    ]
+  },
+  {
+    "id": 210,
+    "img_location": "assets/images/wish_wall.jpg",
+    "title": "Koffie-Wens-Muur",
+    "description": "Schrijf een wens op een servet en laat het achter als 'boodschap voor het universum'.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 117,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 12,
+    "expectations": [
+      "Het is een symbolisch gebaar.",
+      "De wens kiezen is al waardevol.",
+      "Je laat iets achter voor een vreemde."
+    ],
+    "tips": [
+      "Schrijf oprecht.",
+      "Laat het op een zichtbare plek.",
+      "Verwacht niets terug."
+    ],
+    "criteria": [
+      "Wens geschreven.",
+      "Achtergelaten.",
+      "Op zichtbare plek."
+    ]
+  },
+  {
+    "id": 211,
+    "img_location": "assets/images/cafe_serenade.jpg",
+    "title": "Café-Serenade",
+    "description": "Zing zachtjes een liedje voor jezelf terwijl je wacht.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 180,
+    "difficulty": "Gemiddeld",
+    "category": "Publiek",
+    "comfyPoints": 77,
+    "expectations": [
+      "Mensen kijken op.",
+      "Het is een klein moment van vrijheid.",
+      "Je stemming gaat omhoog."
+    ],
+    "tips": [
+      "Kies een rustig, vrolijk liedje.",
+      "Zing zacht maar hoorbaar.",
+      "Stop als de koffie er is."
+    ],
+    "criteria": [
+      "Lied gezongen.",
+      "Hoorbaar voor omgeving.",
+      "Heel couplet gedaan."
+    ]
+  },
+  {
+    "id": 212,
+    "img_location": "assets/images/coffee_lesson.jpg",
+    "title": "Koffie-Levensles",
+    "description": "Schrijf een levensles die je van koffie hebt geleerd op een servet.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 434,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 40,
+    "expectations": [
+      "Het klinkt gek maar is interessant.",
+      "Koffie heeft zijn eigen metaforen.",
+      "Het resultaat is altijd uniek."
+    ],
+    "tips": [
+      "Kies een echte les.",
+      "Koppel het aan koffie.",
+      "Schrijf het mooi op."
+    ],
+    "criteria": [
+      "Levensles geschreven.",
+      "Gekoppeld aan koffie.",
+      "Op servet."
+    ]
+  },
+  {
+    "id": 213,
+    "img_location": "assets/images/coffee_diary.jpg",
+    "title": "Koffie-Dagboek",
+    "description": "Houd een week lang bij wat je koffie deed met je stemming.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 440,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 85,
+    "expectations": [
+      "Je ontdekt patronen.",
+      "Je relatie met koffie wordt bewuster.",
+      "Het is een interessant experiment."
+    ],
+    "tips": [
+      "Schrijf voor en na elke koffie.",
+      "Wees eerlijk.",
+      "Vergelijk aan het einde van de week."
+    ],
+    "criteria": [
+      "Week bijgehouden.",
+      "Voor en na geschreven.",
+      "Vergelijking gemaakt."
+    ]
+  },
+  {
+    "id": 214,
+    "img_location": "assets/images/barista_portrait.jpg",
+    "title": "Barista-Fotoportret",
+    "description": "Vraag de barista toestemming voor een portretfoto en geef er een compliment bij.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 151,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 86,
+    "expectations": [
+      "Barista's zijn zelden het onderwerp.",
+      "De foto is een blijvende herinnering.",
+      "Het compliment maakt het persoonlijk."
+    ],
+    "tips": [
+      "Vraag toestemming eerst.",
+      "Maak een mooie foto.",
+      "Geef het compliment oprecht."
+    ],
+    "criteria": [
+      "Toestemming gevraagd.",
+      "Foto gemaakt.",
+      "Compliment gegeven."
+    ]
+  },
+  {
+    "id": 215,
+    "img_location": "assets/images/cafe_rules.jpg",
+    "title": "Café-Grondregels",
+    "description": "Schrijf je eigen persoonlijke café-etiquette van 5 regels.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 10,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 29,
+    "expectations": [
+      "Het onthult wat jij belangrijk vindt.",
+      "De regels zijn persoonlijk en specifiek.",
+      "Het is een leuke oefening."
+    ],
+    "tips": [
+      "Schrijf regels die jij echt hanteert.",
+      "Wees eerlijk en grappig.",
+      "Bewaar ze."
+    ],
+    "criteria": [
+      "5 regels geschreven.",
+      "Persoonlijk.",
+      "Bewaard."
+    ]
+  },
+  {
+    "id": 216,
+    "img_location": "assets/images/achievement_talk.jpg",
+    "title": "Prestatiegesprek",
+    "description": "Denk terug aan één grote prestatie en schrijf op wat je ervan hebt geleerd.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 338,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 26,
+    "expectations": [
+      "Je herdekt trots op jezelf.",
+      "De les is vaak groter dan de prestatie.",
+      "Schrijven verankert de herinnering."
+    ],
+    "tips": [
+      "Kies een echte prestatie.",
+      "Schrijf de les concreet op.",
+      "Sluit af met een dankjewel aan jezelf."
+    ],
+    "criteria": [
+      "Prestatie beschreven.",
+      "Les opgeschreven.",
+      "Zichzelf bedankt."
+    ]
+  },
+  {
+    "id": 217,
+    "img_location": "assets/images/forget_ritual.jpg",
+    "title": "Vergeet-Ritual",
+    "description": "Schrijf iets op dat je wil vergeten en verscheur het.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 251,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 100,
+    "expectations": [
+      "Verscheuren is symbolisch maar krachtig.",
+      "Je geeft het los.",
+      "Je voelt je lichter."
+    ],
+    "tips": [
+      "Schrijf het eerlijk en volledig op.",
+      "Verscheur het in kleine stukjes.",
+      "Adem diep daarna."
+    ],
+    "criteria": [
+      "Opgeschreven.",
+      "Verscheurd.",
+      "Bewust losgelaten."
+    ]
+  },
+  {
+    "id": 218,
+    "img_location": "assets/images/five_year_plan.jpg",
+    "title": "Vijf-Jaar-Plan",
+    "description": "Schrijf in 5 minuten je leven van de komende 5 jaar uit.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 122,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 99,
+    "expectations": [
+      "Het confronteert je met prioriteiten.",
+      "5 minuten dwingt tot essentie.",
+      "Het geeft richting."
+    ],
+    "tips": [
+      "Schrijf snel zonder te corrigeren.",
+      "Wees ambitieus maar realistisch.",
+      "Lees het daarna rustig door."
+    ],
+    "criteria": [
+      "Plan geschreven.",
+      "In 5 minuten.",
+      "Gelezen en bewaard."
+    ]
+  },
+  {
+    "id": 219,
+    "img_location": "assets/images/park_intention.jpg",
+    "title": "Park-Gebed",
+    "description": "Stel een persoonlijke intentie in stilte voor je wandeling.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 492,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 28,
+    "expectations": [
+      "Een intentie geeft richting.",
+      "De wandeling voelt anders.",
+      "Je keert terug met een antwoord."
+    ],
+    "tips": [
+      "Kies een concrete intentie.",
+      "Sta stil bij de ingang van het park.",
+      "Denk er aan het einde aan terug."
+    ],
+    "criteria": [
+      "Intentie gesteld.",
+      "Bewust gewandeld.",
+      "Teruggedacht."
+    ]
+  },
+  {
+    "id": 220,
+    "img_location": "assets/images/day_scenarios.jpg",
+    "title": "Dag-Scenario",
+    "description": "Schrijf twee scenario's voor hoe je dag kan verlopen: best en worst case.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 248,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 146,
+    "expectations": [
+      "Je bereidt je mentaal voor op beide.",
+      "Het vermindert angst voor het onbekende.",
+      "Je ziet kansen die je anders mist."
+    ],
+    "tips": [
+      "Schrijf beide eerlijk.",
+      "Voeg actie toe bij worst case.",
+      "Kies voor best case mindset."
+    ],
+    "criteria": [
+      "Twee scenario's geschreven.",
+      "Actie bij worst case.",
+      "Bewuste keuze gemaakt."
+    ]
+  },
+  {
+    "id": 221,
+    "img_location": "assets/images/city_vs_park.jpg",
+    "title": "Stadsgeluiden-Vergelijking",
+    "description": "Vergelijk de geluiden van het park met die van de stad.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 574,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 19,
+    "expectations": [
+      "De contrasten zijn verrassend groot.",
+      "Je hoort de stad anders na het park.",
+      "Het verbindt jou met je omgeving."
+    ],
+    "tips": [
+      "Luister 5 minuten in het park.",
+      "Loop daarna naar de parkrand.",
+      "Noteer de verschillen."
+    ],
+    "criteria": [
+      "5 minuten geluisterd.",
+      "Vergelijking gemaakt.",
+      "Notities opgeschreven."
+    ]
+  },
+  {
+    "id": 222,
+    "img_location": "assets/images/park_quiz.jpg",
+    "title": "Park-Quiz",
+    "description": "Stel jezelf 5 vragen over het park die je ter plekke moet beantwoorden.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 517,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 50,
+    "expectations": [
+      "Je ontdekt wat je niet weet.",
+      "Het maakt een wandeling leerzamer.",
+      "Je kijkt met andere ogen."
+    ],
+    "tips": [
+      "Bedenk de vragen van tevoren.",
+      "Loop het park in en zoek de antwoorden.",
+      "Schrijf de antwoorden op."
+    ],
+    "criteria": [
+      "5 vragen bedacht.",
+      "Antwoorden gevonden.",
+      "Opgeschreven."
+    ]
+  },
+  {
+    "id": 223,
+    "img_location": "assets/images/follow_sun.jpg",
+    "title": "Zonnestralen-Volgen",
+    "description": "Loop het park in de richting van het zonlicht.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 291,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 10,
+    "expectations": [
+      "De route is uniek en veranderlijk.",
+      "Je navigeert zonder kaart.",
+      "Je voelt de zon bewuster."
+    ],
+    "tips": [
+      "Begin op een zonnige dag.",
+      "Loop altijd naar het licht toe.",
+      "Wees nieuwsgierig waar je uitkomt."
+    ],
+    "criteria": [
+      "Route gevolgd.",
+      "Op basis van zonlicht.",
+      "Bewust gedaan."
+    ]
+  },
+  {
+    "id": 224,
+    "img_location": "assets/images/night_nature.jpg",
+    "title": "Nacht-Natuur",
+    "description": "Observeer welke dieren er na zonsondergang actief zijn in het park.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 514,
+    "difficulty": "Moeilijk",
+    "category": "Ervaring",
+    "comfyPoints": 178,
+    "expectations": [
+      "Je ontdekt een wereld die je mist overdag.",
+      "Sommige dieren zijn verrassend.",
+      "De stilte vergroot de ervaring."
+    ],
+    "tips": [
+      "Ga na zonsondergang.",
+      "Neem een zaklamp.",
+      "Schrijf alles op wat je ziet of hoort."
+    ],
+    "criteria": [
+      "Na zonsondergang geweest.",
+      "Dieren geobserveerd.",
+      "Opgeschreven."
+    ]
+  },
+  {
+    "id": 225,
+    "img_location": "assets/images/park_history.jpg",
+    "title": "Park-Tijdlijn",
+    "description": "Beschrijf hoe dit deel van het park er 100 jaar geleden uit moet hebben gezien.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 200,
+    "difficulty": "Gemiddeld",
+    "category": "Ervaring",
+    "comfyPoints": 97,
+    "expectations": [
+      "Je fantasie wordt gestimuleerd door het echte landschap.",
+      "Het verbindt verleden en heden.",
+      "Je kijkt anders naar bomen en paden."
+    ],
+    "tips": [
+      "Kijk naar de oudste bomen.",
+      "Stel je gebouwen en mensen voor.",
+      "Schrijf een korte beschrijving."
+    ],
+    "criteria": [
+      "Beschrijving geschreven.",
+      "Gebaseerd op de omgeving.",
+      "Fantasie en observatie gecombineerd."
+    ]
+  },
+  {
+    "id": 226,
+    "img_location": "assets/images/eating_pattern.jpg",
+    "title": "Eetpatroon-Reflectie",
+    "description": "Schrijf op wat je eetgewoontes zeggen over je levensstijl.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 402,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 139,
+    "expectations": [
+      "Het is confronterend maar leerzaam.",
+      "Je ontdekt patronen die je niet zag.",
+      "Het motiveert tot verandering."
+    ],
+    "tips": [
+      "Wees eerlijk en niet oordelend.",
+      "Schrijf zowel positief als negatief.",
+      "Maak één concrete verbetersuggestie."
+    ],
+    "criteria": [
+      "Patronen beschreven.",
+      "Eerlijk.",
+      "Verbetersuggestie gemaakt."
+    ]
+  },
+  {
+    "id": 227,
+    "img_location": "assets/images/meal_gratitude.jpg",
+    "title": "Maaltijd-Dankbaarheid",
+    "description": "Schrijf 5 dingen op waarvoor je dankbaar bent terwijl je wacht op je eten.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 344,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 21,
+    "expectations": [
+      "Het wachten wordt aangenamer.",
+      "Je stemming stijgt.",
+      "De maaltijd smaakt daarna beter."
+    ],
+    "tips": [
+      "Schrijf direct bij aankomst.",
+      "Wees specifiek.",
+      "Lees ze daarna nog eens."
+    ],
+    "criteria": [
+      "5 dingen opgeschreven.",
+      "Specifiek.",
+      "Gelezen."
+    ]
+  },
+  {
+    "id": 228,
+    "img_location": "assets/images/restaurant_decision.jpg",
+    "title": "Restaurant-Beslissing",
+    "description": "Neem tijdens de maaltijd een beslissing die je al lang uitstelt.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 125,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 216,
+    "expectations": [
+      "Een ontspannen omgeving helpt bij beslissingen.",
+      "De maaltijd geeft je rust om te denken.",
+      "Een beslissing nemen voelt bevrijdend."
+    ],
+    "tips": [
+      "Kies een echte uitgestelde beslissing.",
+      "Schrijf de voor- en nadelen op.",
+      "Besluit voor je vertrekt."
+    ],
+    "criteria": [
+      "Beslissing genomen.",
+      "Voor- en nadelen afgewogen.",
+      "Voor vertrek beslist."
+    ]
+  },
+  {
+    "id": 229,
+    "img_location": "assets/images/empty_mind.jpg",
+    "title": "Leegte-Oefening",
+    "description": "Eet één gang zonder enige gedachte over werk of plannen.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 569,
+    "difficulty": "Moeilijk",
+    "category": "Mentaal",
+    "comfyPoints": 186,
+    "expectations": [
+      "De geest leegmaken is moeilijker dan het klinkt.",
+      "Maar de maaltijd smaakt beter.",
+      "Je komt uitgerust van tafel."
+    ],
+    "tips": [
+      "Stel jezelf de regel in.",
+      "Keer terug als gedachten komen.",
+      "Focus op smaak en omgeving."
+    ],
+    "criteria": [
+      "Hele gang zonder plannengedachten.",
+      "Bewust teruggekeerd.",
+      "Smaak centraal gesteld."
+    ]
+  },
+  {
+    "id": 230,
+    "img_location": "assets/images/food_mindmap.jpg",
+    "title": "Culinaire-Mindmap",
+    "description": "Maak een mindmap van alles wat je bij dit gerecht voelt en associeert.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 551,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 26,
+    "expectations": [
+      "Je ontdekt associaties die je niet verwachtte.",
+      "Het is visueel en creatief.",
+      "Het verbindt eten met emotie."
+    ],
+    "tips": [
+      "Begin met het gerecht in het midden.",
+      "Voeg woorden, herinneringen en gevoelens toe.",
+      "Lees het terug."
+    ],
+    "criteria": [
+      "Mindmap gemaakt.",
+      "Meerdere lagen.",
+      "Gelezen."
+    ]
+  },
+  {
+    "id": 231,
+    "img_location": "assets/images/coffee_mentor.jpg",
+    "title": "Koffie-Mentor",
+    "description": "Vraag de barista om je één ding te leren over koffie zetten.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 214,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 135,
+    "expectations": [
+      "Barista's delen graag kennis.",
+      "Je leert iets nuttigs.",
+      "Het contact wordt dieper."
+    ],
+    "tips": [
+      "Vraag op een rustig moment.",
+      "Luister actief.",
+      "Oefene het later thuis."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Les ontvangen.",
+      "Toegezegd thuis te oefenen."
+    ]
+  },
+  {
+    "id": 232,
+    "img_location": "assets/images/guest_tip.jpg",
+    "title": "Cafégast-Tip",
+    "description": "Vraag een cafégast wat ze aanbevelen van het menu.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 201,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 24,
+    "expectations": [
+      "Een persoonlijke aanbeveling is altijd beter.",
+      "Het is een makkelijke gespreksopening.",
+      "Je ontdekt misschien iets nieuws."
+    ],
+    "tips": [
+      "Kies iemand die al iets drinkt.",
+      "Vraag oprecht.",
+      "Bestel het ook indien mogelijk."
+    ],
+    "criteria": [
+      "Aanbeveling gevraagd.",
+      "Ontvangen.",
+      "Eventueel besteld."
+    ]
+  },
+  {
+    "id": 233,
+    "img_location": "assets/images/cafe_mission.jpg",
+    "title": "Koffie-Missie",
+    "description": "Geef drie complimenten aan drie verschillende mensen in het café.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 87,
+    "difficulty": "Gemiddeld",
+    "category": "Sociaal",
+    "comfyPoints": 84,
+    "expectations": [
+      "Drie is haalbaar maar vraagt moed.",
+      "Elk compliment is een mini-overwinning.",
+      "De sfeer in het café verandert."
+    ],
+    "tips": [
+      "Kies echte, specifieke complimenten.",
+      "Spread ze over je bezoek.",
+      "Observeer de reacties."
+    ],
+    "criteria": [
+      "3 complimenten gegeven.",
+      "Specifiek.",
+      "Reacties geobserveerd."
+    ]
+  },
+  {
+    "id": 234,
+    "img_location": "assets/images/coffee_connector.jpg",
+    "title": "Koffie-Verbinder",
+    "description": "Introduceer twee vreemden die allebei alleen zitten aan elkaar.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 209,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 283,
+    "expectations": [
+      "Dit voelt als veel.",
+      "Maar als het lukt is het magisch.",
+      "Je speelt sociale architect."
+    ],
+    "tips": [
+      "Vraag beide personen apart.",
+      "Leg de context uit.",
+      "Laat ze het zelf voortzetten."
+    ],
+    "criteria": [
+      "Beide gevraagd.",
+      "Introductie gemaakt.",
+      "Los gelaten daarna."
+    ]
+  },
+  {
+    "id": 235,
+    "img_location": "assets/images/barista_treat.jpg",
+    "title": "Koffie-Aanbod",
+    "description": "Bied de barista een kleine traktatie aan als dank.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 453,
+    "difficulty": "Makkelijk",
+    "category": "Sociaal",
+    "comfyPoints": 45,
+    "expectations": [
+      "Barista's worden zelden getrakteerd.",
+      "Het is een omkering van rollen.",
+      "De reactie is altijd warm."
+    ],
+    "tips": [
+      "Kies iets wat ze makkelijk kunnen nemen.",
+      "Geef het met oprechte dankbaarheid.",
+      "Verwacht niets terug."
+    ],
+    "criteria": [
+      "Traktatie aangeboden.",
+      "Oprecht.",
+      "Reactie afgewacht."
+    ]
+  },
+  {
+    "id": 236,
+    "img_location": "assets/images/coffee_breath.jpg",
+    "title": "Koffie-Adem",
+    "description": "Doe voor je eerste slok 5 diepe neusbewuste ademhalingen.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 556,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 48,
+    "expectations": [
+      "Je richt je volledig op het moment.",
+      "De koffie ruik je intenser.",
+      "Je lichaam ontspant."
+    ],
+    "tips": [
+      "Adem in door de neus.",
+      "Langzaam uitademen.",
+      "Voel de ontspanning na elke ademhaling."
+    ],
+    "criteria": [
+      "5 ademhalingen gedaan.",
+      "Voor de eerste slok.",
+      "Bewust gedaan."
+    ]
+  },
+  {
+    "id": 237,
+    "img_location": "assets/images/tiptoe_wait.jpg",
+    "title": "Café-Balans",
+    "description": "Sta bij het wachten op je bestelling op de toppen van je voeten.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 107,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 14,
+    "expectations": [
+      "Kuitspieren worden geactiveerd.",
+      "Het wachten gaat sneller.",
+      "Het is een subtiele oefening."
+    ],
+    "tips": [
+      "Sta zo hoog mogelijk.",
+      "Houd je rug recht.",
+      "Houd het vol tot je bestelling er is."
+    ],
+    "criteria": [
+      "Op toppen gestaan.",
+      "Zo lang mogelijk.",
+      "Rug recht gehouden."
+    ]
+  },
+  {
+    "id": 238,
+    "img_location": "assets/images/shoulder_roll.jpg",
+    "title": "Koffie-Schouders",
+    "description": "Rol je schouders 10 keer naar voren en 10 keer naar achteren.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 341,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 23,
+    "expectations": [
+      "Schouders zijn altijd gespannen.",
+      "Deze oefening lost de spanning op.",
+      "Je zit daarna comfortabeler."
+    ],
+    "tips": [
+      "Doe het bewust en langzaam.",
+      "Voel de ontspanning.",
+      "Doe het aan het begin van je bezoek."
+    ],
+    "criteria": [
+      "10 rollen naar voren.",
+      "10 rollen naar achteren.",
+      "Bewust gedaan."
+    ]
+  },
+  {
+    "id": 239,
+    "img_location": "assets/images/neck_stretch.jpg",
+    "title": "Koffie-Nek",
+    "description": "Doe 5 minuten nekoefeningen terwijl je op je koffie wacht.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 102,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 15,
+    "expectations": [
+      "De nek is vaak gespannen door schermen.",
+      "Strekken geeft direct verlichting.",
+      "5 minuten is meer dan genoeg."
+    ],
+    "tips": [
+      "Kantel langzaam naar elke kant.",
+      "Houd 15 seconden vast.",
+      "Dwing niets."
+    ],
+    "criteria": [
+      "5 minuten gerekt.",
+      "Alle richtingen.",
+      "Langzaam gedaan."
+    ]
+  },
+  {
+    "id": 240,
+    "img_location": "assets/images/posture_check.jpg",
+    "title": "Koffie-Posture-Check",
+    "description": "Controleer je houding elke 5 minuten en corrigeer indien nodig.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 477,
+    "difficulty": "Makkelijk",
+    "category": "Fysiek",
+    "comfyPoints": 46,
+    "expectations": [
+      "Houding verslechtert ongemerkt.",
+      "Bewust corrigeren helpt.",
+      "Je rug dankt je op langere termijn."
+    ],
+    "tips": [
+      "Stel een timer in.",
+      "Controleer schouders, rug en nek.",
+      "Corrigeer bewust."
+    ],
+    "criteria": [
+      "Elke 5 minuten gecheckt.",
+      "Gecorrigeerd indien nodig.",
+      "Heel bezoek volgehouden."
+    ]
+  },
+  {
+    "id": 241,
+    "img_location": "assets/images/wind_walk.jpg",
+    "title": "Windrichting-Wandeling",
+    "description": "Wandel 10 minuten altijd in de richting van de wind.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 205,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 15,
+    "expectations": [
+      "De wind bepaalt je route.",
+      "Je laat controle los.",
+      "Je ontdekt onbekende hoeken."
+    ],
+    "tips": [
+      "Voel de windrichting bewust.",
+      "Verander van richting als de wind draait.",
+      "Geniet van de onzekerheid."
+    ],
+    "criteria": [
+      "10 minuten gewandeld.",
+      "Windrichting gevolgd.",
+      "Onbekende plek bereikt."
+    ]
+  },
+  {
+    "id": 242,
+    "img_location": "assets/images/tree_age.jpg",
+    "title": "Boomleeftijd-Gok",
+    "description": "Probeer de leeftijd van 3 bomen te schatten op basis van de stam.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 314,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 19,
+    "expectations": [
+      "Je ontdekt hoeveel je weet over bomen.",
+      "Schatten is moeilijker dan het lijkt.",
+      "Je kijkt dieper naar de natuur."
+    ],
+    "tips": [
+      "Kijk naar omtrek en structuur.",
+      "Schrijf je schatting op.",
+      "Gebruik eventueel een app om te vergelijken."
+    ],
+    "criteria": [
+      "3 bomen geschat.",
+      "Schattingen opgeschreven.",
+      "Vergelijking gemaakt."
+    ]
+  },
+  {
+    "id": 243,
+    "img_location": "assets/images/bench_meditate.jpg",
+    "title": "Bankje-Meditatie",
+    "description": "Mediteer 10 minuten op een bankje met gesloten ogen.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 193,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 85,
+    "expectations": [
+      "De omgevingsgeluiden worden je focus.",
+      "10 minuten voelt lang.",
+      "Je gaat weg met meer rust."
+    ],
+    "tips": [
+      "Stel een timer.",
+      "Richt je op je ademhaling.",
+      "Laat gedachten passeren."
+    ],
+    "criteria": [
+      "10 minuten gezeten.",
+      "Ogen gesloten.",
+      "Geen scherm gebruikt."
+    ]
+  },
+  {
+    "id": 244,
+    "img_location": "assets/images/cafe_colors.jpg",
+    "title": "Café-Kleurenpalet",
+    "description": "Beschrijf het kleurenpalet van het café in 5 woorden.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 95,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 29,
+    "expectations": [
+      "Je kijkt visueel bewuster.",
+      "Kleuren beschrijven vereist creativiteit.",
+      "Het is een minuut pure observatie."
+    ],
+    "tips": [
+      "Loop rond en kijk goed.",
+      "Kies 5 karakteristieke kleuren.",
+      "Gebruik poëtische namen."
+    ],
+    "criteria": [
+      "5 kleuren beschreven.",
+      "Poëtisch taalgebruik.",
+      "Bewust geobserveerd."
+    ]
+  },
+  {
+    "id": 245,
+    "img_location": "assets/images/waiter_advice.jpg",
+    "title": "Ober-Raad",
+    "description": "Vraag de ober om één levensadvies.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 488,
+    "difficulty": "Moeilijk",
+    "category": "Sociaal",
+    "comfyPoints": 220,
+    "expectations": [
+      "De vraag verrast de ober.",
+      "Het antwoord is altijd persoonlijk.",
+      "Je bouwt een unieke verbinding."
+    ],
+    "tips": [
+      "Vraag met een glimlach.",
+      "Luister echt naar het antwoord.",
+      "Bedank hen voor hun openheid."
+    ],
+    "criteria": [
+      "Vraag gesteld.",
+      "Antwoord ontvangen.",
+      "Oprecht bedankt."
+    ]
+  },
+  {
+    "id": 246,
+    "img_location": "assets/images/napkin_origami.jpg",
+    "title": "Servet-Origami",
+    "description": "Vouw je servet in een dierenvorm voor de maaltijd begint.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 399,
+    "difficulty": "Makkelijk",
+    "category": "Creatief",
+    "comfyPoints": 44,
+    "expectations": [
+      "Het is leuk en tijdverdrijvend.",
+      "De ober reageert verrast.",
+      "Je traint je fijne motoriek."
+    ],
+    "tips": [
+      "Kies een eenvoudig dier.",
+      "Volg de stappen rustig.",
+      "Laat het op tafel staan."
+    ],
+    "criteria": [
+      "Origami gemaakt.",
+      "Dierenvorm.",
+      "Op tafel gelaten."
+    ]
+  },
+  {
+    "id": 247,
+    "img_location": "assets/images/coffee_compose.jpg",
+    "title": "Koffie-Lied-Componeren",
+    "description": "Schrijf het begin van een lied geïnspireerd door de geur van koffie.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 520,
+    "difficulty": "Gemiddeld",
+    "category": "Creatief",
+    "comfyPoints": 124,
+    "expectations": [
+      "Geur is een krachtige inspiratiebron.",
+      "Een begin schrijven is genoeg.",
+      "Het resultaat kan prachtig zijn."
+    ],
+    "tips": [
+      "Ruik je koffie eerst bewust.",
+      "Schrijf vrij en snel.",
+      "Neurie de melodie als je kunt."
+    ],
+    "criteria": [
+      "Begin van een lied geschreven.",
+      "Gebaseerd op geur.",
+      "Eventueel geneuried."
+    ]
+  },
+  {
+    "id": 248,
+    "img_location": "assets/images/park_corner.jpg",
+    "title": "Parkhoek-Ontdekking",
+    "description": "Zoek een hoek van het park op die je nog nooit bezocht hebt.",
+    "location": {
+      "name": "Stadspark",
+      "address": "Parklaan 1",
+      "categoryLocation": "Park"
+    },
+    "joined_count": 330,
+    "difficulty": "Makkelijk",
+    "category": "Ervaring",
+    "comfyPoints": 35,
+    "expectations": [
+      "Elk park heeft vergeten hoeken.",
+      "De ontdekking voelt als een mini-avontuur.",
+      "Je kijkt anders naar bekende plekken."
+    ],
+    "tips": [
+      "Loop bewust een onbekende richting in.",
+      "Kijk of er iets bijzonders is.",
+      "Beschrijf wat je vindt."
+    ],
+    "criteria": [
+      "Onbekende hoek gevonden.",
+      "Iets bijzonders opgemerkt.",
+      "Beschreven."
+    ]
+  },
+  {
+    "id": 249,
+    "img_location": "assets/images/last_course.jpg",
+    "title": "Laatste-Gang-Bewust",
+    "description": "Eet je laatste gang volledig zonder afleiding en in absolute stilte.",
+    "location": {
+      "name": "Bistro De Smaak",
+      "address": "Hoofdstraat 42",
+      "categoryLocation": "Restaurant"
+    },
+    "joined_count": 552,
+    "difficulty": "Gemiddeld",
+    "category": "Mentaal",
+    "comfyPoints": 129,
+    "expectations": [
+      "Het is moeilijk om te starten met stilte.",
+      "Maar de smaak intenseert enorm.",
+      "Je sluit de maaltijd bewust af."
+    ],
+    "tips": [
+      "Leg alles weg.",
+      "Eet langzaam.",
+      "Bedank het eten in gedachten."
+    ],
+    "criteria": [
+      "Laatste gang in stilte.",
+      "Geen afleiding.",
+      "Bewust afgesloten."
+    ]
+  },
+  {
+    "id": 250,
+    "img_location": "assets/images/morning_mission.jpg",
+    "title": "Koffie-Morgen-Missie",
+    "description": "Beslis bij je koffie één kleine missie voor de rest van de dag.",
+    "location": {
+      "name": "Koffiebar De Boon",
+      "address": "Marktplein 5",
+      "categoryLocation": "Cafe"
+    },
+    "joined_count": 46,
+    "difficulty": "Makkelijk",
+    "category": "Mentaal",
+    "comfyPoints": 50,
+    "expectations": [
+      "Een kleine missie geeft richting.",
+      "Je dag krijgt een doel.",
+      "Je koffie wordt een startmoment."
+    ],
+    "tips": [
+      "Kies een haalbare missie.",
+      "Schrijf hem op.",
+      "Check hem aan het einde van de dag."
+    ],
+    "criteria": [
+      "Missie bedacht.",
+      "Opgeschreven.",
+      "Gecheckt."
+    ]
   }
 ]
